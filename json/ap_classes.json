@@ -1,0 +1,603 @@
+
+{
+    "ap_classes": [
+      {
+        "name": "AP 2-D Art and Design",
+        "group": "Arts",
+        "attributes": {
+          "5": 11,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": true,
+          "Major Score": 6,
+          "Career Score": 34,
+          "3+": 83
+        }
+      },
+      {
+        "name": "AP 3-D Art and Design",
+        "group": "Arts",
+        "attributes": {
+          "5": 7,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": true,
+          "Major Score": 6,
+          "Career Score": 30,
+          "3+": 72
+        }
+      },
+      {
+        "name": "AP Art History",
+        "group": "Arts",
+        "attributes": {
+          "5": 14,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Good With": "AP World History: Modern",
+          "Project Based": false,
+          "Major Score": 17,
+          "Career Score": 39,
+          "3+": 63
+        }
+      },
+      {
+        "name": "AP Biology",
+        "group": "Sciences",
+        "attributes": {
+          "5": 16,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": false,
+          "Good With": "AP Environmental Science, AP Psychology",
+          "Project Based": false,
+          "Major Score": 30,
+          "Career Score": 59,
+          "3+": 68
+        }
+      },
+      {
+        "name": "AP Calculus AB",
+        "group": "Math and Computer Science",
+        "attributes": {
+          "5": 21,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 27,
+          "Career Score": 78,
+          "3+": 64
+        }
+      },
+      {
+        "name": "AP Calculus BC",
+        "group": "Math and Computer Science",
+        "attributes": {
+          "5": 45,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 22,
+          "Career Score": 61,
+          "3+": 80
+        }
+      },
+      {
+        "name": "AP Chemistry",
+        "group": "Sciences",
+        "attributes": {
+          "5": 17,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 27,
+          "Career Score": 48,
+          "3+": 75
+        }
+      },
+      {
+        "name": "AP Chinese Language and Culture",
+        "group": "AP World Languages and Cultures",
+        "attributes": {
+          "5": 50,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 7,
+          "Career Score": 27,
+          "3+": 87
+        }
+      },
+      {
+        "name": "AP Comparative Government and Politics",
+        "group": "History and Social Sciences",
+        "attributes": {
+          "5": 16,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 11,
+          "Career Score": 39,
+          "3+": 73
+        }
+      },
+      {
+        "name": "AP Computer Science A",
+        "group": "Math and Computer Science",
+        "attributes": {
+          "5": 24,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": true,
+          "Good With": "AP Calculus AB",
+          "Project Based": false,
+          "Major Score": 27,
+          "Career Score": 74,
+          "3+": 66
+        }
+      },
+      {
+        "name": "AP Computer Science Principles",
+        "group": "Math and Computer Science",
+        "attributes": {
+          "5": 11,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Good With": "AP Computer Science A, AP Precalculus",
+          "Project Based": true,
+          "Major Score": 27,
+          "Career Score": 74,
+          "3+": 65
+        }
+      },
+      {
+        "name": "AP Drawing",
+        "group": "Arts",
+        "attributes": {
+          "5": 15,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": true,
+          "Major Score": 5,
+          "Career Score": 23,
+          "3+": 84
+        }
+      },
+      {
+        "name": "AP English Language and Composition",
+        "group": "English",
+        "attributes": {
+          "5": 9,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": false,
+          "Good With": "AP United States History, AP English Literature and Composition, AP Seminar, AP Research",
+          "Project Based": false,
+          "Major Score": 26,
+          "Career Score": 56,
+          "3+": 54
+        }
+      },
+      {
+        "name": "AP English Literature and Composition",
+        "group": "English",
+        "attributes": {
+          "5": 13,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": true,
+          "Good With": "AP English Language and Composition",
+          "Project Based": false,
+          "Major Score": 13,
+          "Career Score": 47,
+          "3+": 72
+        }
+      },
+      {
+        "name": "AP Environmental Science",
+        "group": "Sciences",
+        "attributes": {
+          "5": 9,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 21,
+          "Career Score": 50,
+          "3+": 54
+        }
+      },
+      {
+        "name": "AP European History",
+        "group": "History and Social Sciences",
+        "attributes": {
+          "5": 13,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 10,
+          "Career Score": 37,
+          "3+": 72
+        }
+      },
+      {
+        "name": "AP French Language and Culture",
+        "group": "AP World Languages and Cultures",
+        "attributes": {
+          "5": 14,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 6,
+          "Career Score": 26,
+          "3+": 71
+        }
+      },
+      {
+        "name": "AP German Language and Culture",
+        "group": "AP World Languages and Cultures",
+        "attributes": {
+          "5": 24,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 6,
+          "Career Score": 26,
+          "3+": 67
+        }
+      },
+      {
+        "name": "AP Human Geography",
+        "group": "History and Social Sciences",
+        "attributes": {
+          "5": 18,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Good With": "AP Environmental Science",
+          "Project Based": false,
+          "Major Score": 11,
+          "Career Score": 41,
+          "3+": 56
+        }
+      },
+      {
+        "name": "AP Italian Language and Culture",
+        "group": "AP World Languages and Cultures",
+        "attributes": {
+          "5": 20,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 6,
+          "Career Score": 26,
+          "3+": 71
+        }
+      },
+      {
+        "name": "AP Japanese Language and Culture",
+        "group": "AP World Languages and Cultures",
+        "attributes": {
+          "5": 47,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 7,
+          "Career Score": 26,
+          "3+": 74
+        }
+      },
+      {
+        "name": "AP Latin",
+        "group": "AP World Languages and Cultures",
+        "attributes": {
+          "5": 12,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 5,
+          "Career Score": 20,
+          "3+": 57
+        }
+      },
+      {
+        "name": "AP Macroeconomics",
+        "group": "History and Social Sciences",
+        "attributes": {
+          "5": 16,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 13,
+          "Career Score": 38,
+          "3+": 62
+        }
+      },
+      {
+        "name": "AP Microeconomics",
+        "group": "History and Social Sciences",
+        "attributes": {
+          "5": 17,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 14,
+          "Career Score": 39,
+          "3+": 65
+        }
+      },
+      {
+        "name": "AP Music Theory",
+        "group": "Arts",
+        "attributes": {
+          "5": 19,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 9,
+          "Career Score": 37,
+          "3+": 61
+        }
+      },
+      {
+        "name": "AP Physics 1: Algebra-Based",
+        "group": "Sciences",
+        "attributes": {
+          "5": 8,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": false,
+          "Good With": "AP Precalculus, AP Calculus AB",
+          "Project Based": false,
+          "Major Score": 10,
+          "Career Score": 34,
+          "3+": 46
+        }
+      },
+      {
+        "name": "AP Physics 2: Algebra-Based",
+        "group": "Sciences",
+        "attributes": {
+          "5": 15,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 10,
+          "Career Score": 34,
+          "3+": 68
+        }
+      },
+      {
+        "name": "AP Physics C: Electricity and Magnetism",
+        "group": "Sciences",
+        "attributes": {
+          "5": 27,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 10,
+          "Career Score": 38,
+          "3+": 67
+        }
+      },
+      {
+        "name": "AP Physics C: Mechanics",
+        "group": "Sciences",
+        "attributes": {
+          "5": 23,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 10,
+          "Career Score": 38,
+          "3+": 75
+        }
+      },
+      {
+        "name": "AP Precalculus",
+        "group": "Math and Computer Science",
+        "attributes": {
+          "5": 25,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 47,
+          "Career Score": 86,
+          "3+": 75
+        }
+      },
+      {
+        "name": "AP Psychology",
+        "group": "History and Social Sciences,Sciences",
+        "attributes": {
+          "5": 18,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 34,
+          "Career Score": 78,
+          "3+": 61
+        }
+      },
+      {
+        "name": "AP Research",
+        "group": "AP Capstone Diploma Program",
+        "attributes": {
+          "5": 12,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Good With": "AP Statistics, AP Seminar, AP English Language and Composition",
+          "Project Based": true,
+          "Major Score": 27,
+          "Career Score": 56,
+          "3+": 85
+        }
+      },
+      {
+        "name": "AP Seminar",
+        "group": "AP Capstone Diploma Program",
+        "attributes": {
+          "5": 9,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": false,
+          "Good With": "AP Research, AP English Language and Composition",
+          "Project Based": true,
+          "Major Score": 26,
+          "Career Score": 56,
+          "3+": 89
+        }
+      },
+      {
+        "name": "AP Spanish Language and Culture",
+        "group": "AP World Languages and Cultures",
+        "attributes": {
+          "5": 21,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 7,
+          "Career Score": 28,
+          "3+": 83
+        }
+      },
+      {
+        "name": "AP Spanish Literature and Culture",
+        "group": "AP World Languages and Cultures",
+        "attributes": {
+          "5": 21,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": true,
+          "Popular 12": true,
+          "Project Based": false,
+          "Major Score": 5,
+          "Career Score": 21,
+          "3+": 9
+        }
+      },
+      {
+        "name": "AP Statistics",
+        "group": "Math and Computer Science",
+        "attributes": {
+          "5": 17,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": true,
+          "Good With": "AP Precalculus",
+          "Project Based": false,
+          "Major Score": 18,
+          "Career Score": 61,
+          "3+": 62
+        }
+      },
+      {
+        "name": "AP United States Government and Politics",
+        "group": "History and Social Sciences",
+        "attributes": {
+          "5": 24,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": false,
+          "Popular 12": true,
+          "Good With": "AP Macroeconomics",
+          "Project Based": false,
+          "Major Score": 16,
+          "Career Score": 43,
+          "3+": 73
+        }
+      },
+      {
+        "name": "AP United States History",
+        "group": "History and Social Sciences",
+        "attributes": {
+          "5": 13,
+          "Popular 9": false,
+          "Popular 10": false,
+          "Popular 11": true,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 12,
+          "Career Score": 41,
+          "3+": 72
+        }
+      },
+      {
+        "name": "AP World History: Modern",
+        "group": "History and Social Sciences",
+        "attributes": {
+          "5": 12,
+          "Popular 9": true,
+          "Popular 10": true,
+          "Popular 11": false,
+          "Popular 12": false,
+          "Project Based": false,
+          "Major Score": 14,
+          "Career Score": 42,
+          "3+": 64
+        }
+      }
+    ]
+  }
+  

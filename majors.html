@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select a Major</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6VYP0QJL5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-K6VYP0QJL5');
+    </script>
+
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a href="index.html">Home</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <div class="title-section">
+            <h1>Select a Major</h1>
+            <p>Click on a major to proceed.</p>
+        </div>
+    </header>
+
+    <main class="majors-page">
+        <div class="majors-container" id="majors-container">
+            <!-- Majors will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <div id="floating-button">
+        <button id="floating-btn" class="floating-btn">Wondering why your dream major isn't listed?</button>
+        <div id="message-bubble" class="message-bubble hidden">
+            The majors listed here are based on the official list provided by the College Board. For more info, check their <a href="https://apstudents.collegeboard.org/choosing-courses/by-major-career" target="_blank">website</a>.
+        </div>
+      </div>   
+
+    <script src="js/majors.js"></script>
+    
+    <script>
+        document.getElementById('floating-btn').addEventListener('click', () => {
+            const messageBubble = document.getElementById('message-bubble');
+
+            // Show the bubble
+            messageBubble.classList.remove('hidden');
+            messageBubble.classList.add('show');
+
+            // Hide the bubble after 5 seconds
+            setTimeout(() => {
+                messageBubble.classList.remove('show');
+                messageBubble.classList.add('hidden');
+            }, 5000);
+        });
+    </script>
+
+    <footer>
+        <p>&copy; 2024 Ege Yilmaz - RC28. This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>. Please <a href="disclaimer.html" target="_blank">read the disclaimer</a>.</p>
+        <p>Data sourced from publicly available materials provided by the <a href="https://apstudents.collegeboard.org/" target="_blank">College Board</a>. This site is not affiliated with, endorsed by, or officially connected to the College Board in any way.</p>
+    </footer>
+    
+</body>
+</html>

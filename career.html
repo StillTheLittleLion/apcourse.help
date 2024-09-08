@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Details</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6VYP0QJL5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-K6VYP0QJL5');
+    </script>
+
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a href="index.html">Home</a>
+            <a href="majors.html">Select a Major</a>
+            <a href="careers.html">Select a Career</a>
+            <a href="all-courses.html">All Courses</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <div class="title-section">
+            <h1 id="career-name"></h1>
+            <p id="career-details"></p>
+        </div>
+    </header>
+
+    <main>
+        <div id="ap-courses-container">
+            <!-- AP courses will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <script src="js/career.js"></script>
+
+    <footer>
+        <p>&copy; 2024 Ege Yilmaz - RC28. This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>. Please <a href="disclaimer.html" target="_blank">read the disclaimer</a>.</p>
+        <p>Data sourced from publicly available materials provided by the <a href="https://apstudents.collegeboard.org/" target="_blank">College Board</a>. This site is not affiliated with, endorsed by, or officially connected to the College Board in any way.</p>
+    </footer>
+     
+</body>
+</html>

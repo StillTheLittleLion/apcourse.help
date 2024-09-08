@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AP Course Help</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="index-header">
+        <h1>AP Course Help</h1>
+        <div class="text-container">
+            <p class="instructions small-text">
+                Selecting the right AP courses for your dream college can be challenging. While the College Board provides detailed information about individual courses, it's not always easy to get a complete picture of how these courses align with specific majors or careers.
+            </p>
+            <p class="instructions small-text">
+                This site is designed to help you understand which AP courses may contribute to your degree and, in some cases, even earn you college credits. Be sure to check with your college for their specific AP credit policies.
+            </p>
+            <p class="instructions">
+                Get started by selecting either <strong>Majors</strong> or <strong>Careers</strong>.
+            </p>
+        </div>
+    </header>
+
+    <main>
+        <div class="button-container">
+            <!-- Link to Majors page -->
+            <a href="majors.html">
+                <button class="select-button" id="majors">
+                    <img src="icons/majors-icon.svg" alt="Majors Icon">
+                    <span>Majors</span>
+                </button>
+            </a>
+    
+            <!-- Link to Careers page -->
+            <a href="careers.html">
+                <button class="select-button" id="careers">
+                    <img src="icons/careers-icon.svg" alt="Careers Icon">
+                    <span>Careers</span>
+                </button>
+            </a>
+        </div>
+        <p class="instructions">
+            <a href="all-courses.html" class="text-link">or list all courses</a>
+        </p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Ege Yilmaz - RC28. This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>. Please <a href="disclaimer.html" target="_blank">read the disclaimer</a>.</p>
+        <p>Data sourced from publicly available materials provided by the <a href="https://apstudents.collegeboard.org/" target="_blank">College Board</a>. This site is not affiliated with, endorsed by, or officially connected to the College Board in any way.</p>
+    </footer>
+
+    <!-- Cookie Consent Banner -->
+    <div id="cookie-consent-banner" class="cookie-consent-banner hidden">
+        <p>This site uses cookies for analytics. By continuing to use the site, you agree to the use of cookies. For more information, please see our <a href="disclaimer.html">Privacy Policy</a>.</p>
+        <button id="accept-cookies">Accept</button>
+        <button id="decline-cookies">Decline</button>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const consentBanner = document.getElementById('cookie-consent-banner');
+            const acceptBtn = document.getElementById('accept-cookies');
+            const declineBtn = document.getElementById('decline-cookies');
+
+            // Check if the user has already given consent
+            const consentGiven = localStorage.getItem('cookieConsent');
+
+            if (!consentGiven) {
+                // Show the banner if consent is not given yet
+                consentBanner.classList.remove('hidden');
+            }
+
+            acceptBtn.addEventListener('click', () => {
+                localStorage.setItem('cookieConsent', 'accepted');
+                consentBanner.classList.add('hidden');
+                loadGoogleAnalytics();  // Load analytics script
+            });
+
+            declineBtn.addEventListener('click', () => {
+                localStorage.setItem('cookieConsent', 'declined');
+                consentBanner.classList.add('hidden');
+            });
+
+            // Function to load Google Analytics script
+            function loadGoogleAnalytics() {
+                const script = document.createElement('script');
+                script.src = 'https://www.googletagmanager.com/gtag/js?id=G-K6VYP0QJL5';
+                script.async = true;
+                document.head.appendChild(script);
+
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-K6VYP0QJL5', { anonymize_ip: true });
+            }
+
+            // If user has accepted cookies before, load Google Analytics
+            if (consentGiven === 'accepted') {
+                loadGoogleAnalytics();
+            }
+        });
+    </script>
+
+</body>
+</html>

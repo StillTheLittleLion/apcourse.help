@@ -473,3 +473,17 @@ body .disclaimer-header h1 {
 .cookie-consent-banner.hidden {
     display: none;
 }
+
+@media (max-width: 768px) {
+    /* Apply to index, major, and career pages */
+    .text-container {
+        padding: 0 20px; /* Add padding to the left and right */
+        max-width: 100%; /* Ensure the text container does not take up 100% of the screen width */
+    }
+
+    /* Adjust lessons container on major and career pages */
+    .ap-course {
+        max-width: 80%; /* Ensure the lessons are not 100% width */
+        margin: 0 auto; /* Center align lessons */
+    }
+}

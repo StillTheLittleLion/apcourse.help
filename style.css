@@ -474,16 +474,50 @@ body .disclaimer-header h1 {
     display: none;
 }
 
+/* For mobile devices (screens 768px wide or less) */
 @media (max-width: 768px) {
-    /* Apply to index, major, and career pages */
+    
     .text-container {
-        padding: 0 20px; /* Add padding to the left and right */
-        max-width: 100%; /* Ensure the text container does not take up 100% of the screen width */
+        padding: 0 20px;
+        max-width: 100%;
     }
 
-    /* Adjust lessons container on major and career pages */
     .ap-course {
-        max-width: 80%; /* Ensure the lessons are not 100% width */
-        margin: 0 auto; /* Center align lessons */
+        max-width: 80%;
+        margin: 0 auto;
+    }
+
+    .index-header {
+        padding: 50px 0px 0px 0px;
+    }
+
+    .break-line {
+        display: block;
+        margin-top: 10px;
+    }
+
+    #major-details {
+        padding: 0 15px;
+        text-align: center;
+    }
+
+    #career-details {
+        padding: 0 15px; 
+        text-align: center;
+    }
+}
+
+/* Mobile-specific styles */
+@media (max-width: 768px) {
+    .mobile-br {
+        display: block; /* Force a break on mobile */
+        width: 100%; /* Span the full width */
+        height: 0; /* Ensure no extra spacing */
+    }
+
+    .navbar a {
+        text-align: center;
+        display: inline-block;
+        width: auto;
     }
 }

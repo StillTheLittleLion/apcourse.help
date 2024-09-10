@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const totalCourses = selectedCareer.ap_courses.length;
 
                 // Update subtitle with the number of AP courses
-                document.getElementById('major-details').innerHTML = `The College Board identifies these <strong>${totalCourses} AP courses</strong> as helpful for this career.<br>However, this doesn't mean you need to take these courses or exams to pursue this career.`;
+                document.getElementById('career-details').innerHTML = `The College Board identifies these <strong>${totalCourses} AP courses</strong> as helpful for this career.<br>However, this doesn't mean you need to take these courses or exams to pursue this career.`;
 
                 // For each AP course in the selected career, find its attributes
                 selectedCareer.ap_courses.forEach(apCourseName => {

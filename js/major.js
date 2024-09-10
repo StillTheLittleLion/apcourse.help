@@ -5,6 +5,11 @@ document.addEventListener('DOMContentLoaded', () => {
         return urlParams.get(param);
     }
 
+    // Function to convert course names into URL-friendly format
+    function convertToUrlFriendly(courseName) {
+        return courseName.toLowerCase().replace(/[^a-z0-9 ]/g, '').replace(/ /g, '-');
+    }
+
     // Get the selected major from the URL
     const majorName = getQueryParam('major');
 
@@ -35,10 +40,15 @@ document.addEventListener('DOMContentLoaded', () => {
                         const apDiv = document.createElement('div');
                         apDiv.classList.add('ap-course');
 
-                        // Create the course name div
-                        const nameDiv = document.createElement('div');
-                        nameDiv.classList.add('ap-course-name');
-                        nameDiv.textContent = apCourse.name;
+                        // Create the course name link to College Board page
+                        const courseLink = document.createElement('a');
+                        courseLink.href = `https://apstudents.collegeboard.org/courses/${convertToUrlFriendly(apCourse.name)}`;
+                        courseLink.target = '_blank';
+                        courseLink.classList.add('ap-course-name');
+                        courseLink.textContent = apCourse.name;
+
+                        // Append the course name link to the course container
+                        apDiv.appendChild(courseLink);
 
                         // Create the group (AP Group) as a link
                         const groupLink = document.createElement('a');
@@ -47,8 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         groupLink.classList.add('ap-course-group');
                         groupLink.textContent = `AP Group: ${apCourse.group}`;
 
-                        // Append both name and group link to the course container
-                        apDiv.appendChild(nameDiv);
+                        // Append the group link to the course container
                         apDiv.appendChild(groupLink);
 
                         // Badge container

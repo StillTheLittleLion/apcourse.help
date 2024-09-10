@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const totalCourses = selectedMajor.ap_courses.length;
 
                 // Update subtitle with the number of AP courses
-                document.getElementById('major-details').innerHTML = `Below are the College Board listed <strong>${totalCourses} AP courses</strong> that lead this major (This does not mean that you should be taking these exams for this major):`;
+                document.getElementById('major-details').innerHTML = `The College Board identifies these <strong>${totalCourses} AP courses</strong> as helpful for this major.<br>However, this doesn't mean you need to take these courses or exams to pursue this major.`;
 
                 // For each AP course in the selected major, find its attributes
                 selectedMajor.ap_courses.forEach(apCourseName => {

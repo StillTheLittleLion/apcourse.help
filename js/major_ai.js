@@ -41,8 +41,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 // Update the hero section with the number of courses
                 //const cbCourseCount = selectedCBmajor ? selectedCBmajor.ap_courses.length : 0;
                 const aiCourseCount = selectedAImajor ? selectedAImajor.ap_courses.length : 0;
-                document.getElementById("hero-desc").innerHTML = `The College Board suggests <strong>XX AP courses</strong>, and AI recommends <strong>${aiCourseCount} AP courses</strong> as useful for this major. However, this doesn't mean you need to take these courses or exams to pursue this major.`;
-                //document.getElementById("hero-desc").innerHTML = `The College Board suggests <strong>${cbCourseCount} AP courses</strong>, and AI recommends <strong>${aiCourseCount} AP courses</strong> as useful for this major. However, this doesn't mean you need to take these courses or exams to pursue this major.`;
+                //document.getElementById("hero-desc").innerHTML = `The College Board suggests <strong>XX AP courses</strong>, and AI recommends <strong>${aiCourseCount} AP courses</strong> as useful for this major. However, this doesn't mean you need to take these courses or exams to pursue this major.`;
+                document.getElementById("hero-desc").innerHTML = `The College Board suggests <strong>${cbCourseCount} AP courses</strong>, and AI recommends <strong>${aiCourseCount} AP courses</strong> as useful for this major. However, this doesn't mean you need to take these courses or exams to pursue this major.`;
 
                 // Add event listeners after dynamically creating elements
                 attachToggleEvents();

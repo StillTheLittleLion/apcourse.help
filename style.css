@@ -1,9 +1,11 @@
+/* Import Roboto from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 /* Styling for the body and basic layout */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
     text-align: center;
 }
 
@@ -37,7 +39,7 @@ main {
 }
 
 .select-button {
-    background-color: #ffffff;
+    background-color: #004080;
     border: 2px solid #ddd;
     border-radius: 10px;
     width: 150px;
@@ -59,11 +61,12 @@ main {
     width: 50px;
     height: 50px;
     margin-bottom: 10px;
+    filter: brightness(0) saturate(100%) invert(100%) brightness(200%);
 }
 
 .select-button span {
     font-size: 16px;
-    color: #333;
+    color: #fff;
 }
 
 .text-container {
@@ -94,7 +97,6 @@ footer {
     margin-top: 50px;
     font-size: 10px;
     color: #666;
-    background-color: #f9f9f9;
 }
 
 footer a {
@@ -136,6 +138,40 @@ footer a:hover {
 }
 
 .majors-page .major-button:hover {
+    background-color: yellow;
+    transform: translateY(-3px);
+}
+
+/* Styling for the Careers page */
+.careers-header {
+    padding: 0px 0px 0px;
+}
+
+.careers-page .careers-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.careers-page .career-button {
+    background-color: #ffffff;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 10px 15px;
+    display: inline-block;
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    white-space: nowrap;
+}
+
+.careers-page .career-button:hover {
     background-color: yellow;
     transform: translateY(-3px);
 }
@@ -274,15 +310,14 @@ body .disclaimer-header h1 {
 
 /* Navigation bar styling */
 .navbar {
-    background-color: #333;
+    margin-left: 25px;
     padding: 10px 0;
     font-size: 12px;
-    text-align: center;
+    text-align: left;
 }
 
 .navbar a {
     text-decoration: none;
-    color: #fff;
     font-weight: bold;
     padding: 0 15px;
     font-size: 12px;
@@ -296,9 +331,10 @@ body .disclaimer-header h1 {
 
 /* Title section styling */
 .title-section {
-    padding: 40px 0px 0px 0px;
+    padding: 40px 0px 10px 0px;
     text-align: center;
-    background-color: transparent;
+    background-color: #004080;
+    color: #fff;
 }
 
 .title-section h1 {
@@ -308,12 +344,10 @@ body .disclaimer-header h1 {
 
 .title-section p {
     font-size: 18px;
-    color: #555;
 }
 
 .text-link {
     text-decoration: none;
-    color: #333;
     font-size: 16px;
     margin-top: 20px;
 }
@@ -400,80 +434,6 @@ body .disclaimer-header h1 {
     }
 }
 
-/* Styling for the Careers page */
-.careers-header {
-    padding: 0px 0px 0px;
-}
-
-.careers-page .careers-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
-.careers-page .career-button {
-    background-color: #ffffff;
-    border: 2px solid #ddd;
-    border-radius: 8px;
-    padding: 10px 15px;
-    display: inline-block;
-    font-size: 16px;
-    color: #333;
-    text-align: center;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.3s ease;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    white-space: nowrap;
-}
-
-.careers-page .career-button:hover {
-    background-color: yellow;
-    transform: translateY(-3px);
-}
-
-/* Cookie Consent Banner */
-.cookie-consent-banner {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 15px;
-    font-size: 14px;
-    z-index: 1000;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.cookie-consent-banner a {
-    color: #ffc107;
-    text-decoration: underline;
-}
-
-.cookie-consent-banner button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    margin: 0 10px;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-.cookie-consent-banner button:hover {
-    background-color: #0056b3;
-}
-
-.cookie-consent-banner.hidden {
-    display: none;
-}
-
 /* For mobile devices (screens 768px wide or less) */
 @media (max-width: 768px) {
     
@@ -510,14 +470,20 @@ body .disclaimer-header h1 {
 /* Mobile-specific styles */
 @media (max-width: 768px) {
     .mobile-br {
-        display: block; /* Force a break on mobile */
-        width: 100%; /* Span the full width */
-        height: 0; /* Ensure no extra spacing */
+        display: block;
+        width: 100%;
+        height: 0;
     }
 
-    .navbar a {
+    .navbar {
         text-align: center;
         display: inline-block;
         width: auto;
     }
+}
+
+.cookie-consent-banner {
+    font-size: 10px;
+    color:#666;
+    margin-bottom: 100px;
 }

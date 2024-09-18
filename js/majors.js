@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Fetch the majors data from the JSON file
-    fetch('json/majors.json')
+    fetch('json/CBmajors.json')
         .then(response => response.json())
         .then(data => {
             const majorsContainer = document.getElementById('majors-container');

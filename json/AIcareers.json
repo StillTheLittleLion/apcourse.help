@@ -1,0 +1,2959 @@
+{
+  "careers": [
+    {
+      "name": "Actors",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Music Theory",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Seminar",
+        "AP Research"
+      ]
+    },
+    {
+      "name": "Actuaries",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics 2: Algebra-Based",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Seminar",
+        "AP Research"
+      ]
+    },
+    {
+      "name": "Administrative Assistants and Secretaries",
+      "ap_courses": [
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP Seminar",
+        "AP Research",
+        "AP English Language and Composition",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Adult Educators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Advanced-Practice Nurses",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP Research"
+      ]
+    },
+    {
+      "name": "Advertising Sales Agents",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Advertising, Marketing, and Public Relations Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Spanish Language and Culture"
+      ]
+    },
+    {
+      "name": "Aerospace Engineers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Seminar",
+        "AP Research"
+      ]
+    },
+    {
+      "name": "Agricultural and Food Scientists",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Seminar",
+        "AP Research"
+      ]
+    },
+    {
+      "name": "Agricultural Engineers",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Seminar",
+        "AP Research"
+      ]
+    },
+    {
+      "name": "Air Traffic Controllers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Aircraft and Avionics Technicians",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Aircraft Pilots",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Animal Caretakers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Announcers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Spanish Language and Culture",
+        "AP Music Theory"
+      ]
+    },
+    {
+      "name": "Anthropologists and Archaeologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Environmental Science",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Aquaculturists",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Architects",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Archivists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Art Directors",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Arts Administrators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Athletic Trainers",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Barbers and Hairstylists",
+      "ap_courses": [
+        "AP Art History",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Biological Scientists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Biomedical Engineers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Buyers and Purchasers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Camera Operators and Film and Video Editors",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP European History",
+        "AP Psychology",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Psychology",
+        "AP Music Theory"
+      ]
+    },
+    {
+      "name": "Chefs",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Chemical Engineers",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Chemists and Materials Scientists",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Child Care Workers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Child, Family, and School Social Workers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Statistics",
+        "AP Biology",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Chiropractors",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics 2: Algebra-Based",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Choreographers",
+      "ap_courses": [
+        "AP Art History",
+        "AP Music Theory",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Civil Engineers",
+      "ap_courses": [
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Clinical Laboratory Technologists",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics 2: Algebra-Based",
+        "AP Research",
+        "AP Seminar",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Clinical Psychologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Coaches and Scouts",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Community Organizers and Activists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Composers",
+      "ap_courses": [
+        "AP Music Theory",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Computer and Information Systems Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Computer Hardware Engineers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Computer Programmers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Computer Scientists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Computer Support Specialists",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Computer Systems Analysts",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Conservation Scientists",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Conservators",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Construction and Building Inspectors",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Construction Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Copy Editors",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP European History",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Copywriters",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Craft Artists",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Crop Farmers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Curators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Dairy Farmers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Dancers",
+      "ap_courses": [
+        "AP Art History",
+        "AP Music Theory",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Database Administrators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Dentists",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Dietitians and Nutritionists",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Directors",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Music Theory",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP European History",
+        "AP Psychology",
+        "AP United States History",
+        "AP World History: Modern"
+      ]
+    },
+    {
+      "name": "Drafters",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Economists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Chinese Language and Culture",
+        "AP Latin"
+      ]
+    },
+    {
+      "name": "Editors",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Education Administrators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Electrical Engineers",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Electronics Technicians",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics 2: Algebra-Based",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Elementary School Teachers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Music Theory",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics 2: Algebra-Based",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Emergency Medical Technicians and Paramedics",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Engineering and Science Managers",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Engineering Technicians",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Environmental Educators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Human Geography",
+        "AP United States Government and Politics",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics 1: Algebra-Based",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Environmental Engineers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP United States Government and Politics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Environmental Scientists",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics 2: Algebra-Based",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Exhibit Designers and Museum Technicians",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Literature and Composition",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Environmental Science",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Fashion Designers",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Federal Agents",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP World History: Modern"
+      ]
+    },
+    {
+      "name": "Financial Analysts",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Financial Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Fine Artists",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Literature and Composition",
+        "AP European History",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Food Service Managers",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Foreign Service Officers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Environmental Science",
+        "AP Psychology",
+        "AP Chinese Language and Culture",
+        "AP French Language and Culture",
+        "AP German Language and Culture",
+        "AP Italian Language and Culture",
+        "AP Japanese Language and Culture",
+        "AP Spanish Language and Culture"
+      ]
+    },
+    {
+      "name": "Forensic Scientists",
+      "ap_courses": [
+        "AP English Literature and Composition",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Foresters and Forestry Technicians",
+      "ap_courses": [
+        "AP Comparative Government and Politics",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP United States Government and Politics",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "General Practitioners",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Geographers",
+      "ap_courses": [
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Statistics",
+        "AP Environmental Science",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Geographic Specialists",
+      "ap_courses": [
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Geoscientists",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Government Executives and Legislators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Psychology",
+        "AP Statistics",
+        "AP Calculus AB",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Government Lawyers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Graphic Designers",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Health Educators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP Environmental Science",
+        "AP Precalculus",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Historians",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Art History",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Human Resources Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Human-Service Assistants",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Statistics",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Illustrators",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Imams",
+      "ap_courses": [
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP World History: Modern",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Industrial Designers",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Industrial Engineers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Industrial Production Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Industrial Psychologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Instructional Coordinators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Insurance Sales Agents",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus"
+      ]
+    },
+    {
+      "name": "Interior Designers",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Interpreters",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Spanish Language and Culture",
+        "AP French Language and Culture",
+        "AP Chinese Language and Culture",
+        "AP German Language and Culture",
+        "AP Italian Language and Culture",
+        "AP Japanese Language and Culture"
+      ]
+    },
+    {
+      "name": "Judges",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern"
+      ]
+    },
+    {
+      "name": "Landscape Architects",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Environmental Science",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Librarians and Media Collections Specialists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Art History",
+        "AP Comparative Government and Politics",
+        "AP European History",
+        "AP Human Geography",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Licensed Practical Nurses",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Lodging Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus"
+      ]
+    },
+    {
+      "name": "Management Consultants",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Statistics",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus"
+      ]
+    },
+    {
+      "name": "Market and Survey Researchers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Marriage and Family Therapists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Biology",
+        "AP Calculus AB",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Massage Therapists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Calculus AB",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Materials Engineers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Chemistry",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Environmental Science",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Mathematicians",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Mechanical Engineers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Chemistry",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Medical and Health Services Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Calculus AB",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Medical and Public Health Social Workers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Statistics",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Medical Scientists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Meeting and Convention Planners",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Computer Science A",
+        "AP Computer Science Principles"
+      ]
+    },
+    {
+      "name": "Mental Health and Substance Abuse Social Workers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Statistics",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Mental Health Counselors",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Biology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Meteorologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Mining and Geological Engineers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Chemistry",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Multimedia Artists and Animators",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Musicians and Singers",
+      "ap_courses": [
+        "AP Music Theory",
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Network and Computer Systems Administrators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Network Systems and Data Communications Analysts",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "News Analysts, Reporters, and Correspondents",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Nuclear Engineers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Chemistry",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Nuclear Medicine Technologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Occupational Health and Safety Specialists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Occupational Therapists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP Precalculus",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Operations Research Analysts",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Park Rangers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Human Geography",
+        "AP Environmental Science",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Petroleum Engineers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Chemistry",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Pharmacists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Photographers",
+      "ap_courses": [
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
+      ]
+    },
+    {
+      "name": "Physical Therapists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP Precalculus",
+        "AP Calculus AB",
+        "AP Physics 1: Algebra-Based",
+        "AP Physics 2: Algebra-Based"
+      ]
+    },
+    {
+      "name": "Physician Assistants",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Precalculus",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Physicists and Astronomers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Chemistry",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Pig and Poultry Farmers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Calculus AB",
+        "AP Precalculus"
+      ]
+    },
+    {
+      "name": "Political Scientists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP English Language and Composition",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Postsecondary Teachers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Preserve Managers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Environmental Science",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Human Geography",
+        "AP Calculus AB",
+        "AP Precalculus"
+      ]
+    },
+    {
+      "name": "Priests",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP World History: Modern",
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Latin"
+      ]
+    },
+    {
+      "name": "Private-Practice Lawyers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Psychology",
+        "AP Macroeconomics",
+        "AP Microeconomics"
+      ]
+    },
+    {
+      "name": "Probation Officers and Correctional Treatment Specialists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Recreation and Fitness Workers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP Calculus AB",
+        "AP Precalculus"
+      ]
+    },
+    {
+      "name": "Recreational Therapists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP Precalculus",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Registered Nurses",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Calculus AB",
+        "AP Precalculus"
+      ]
+    },
+    {
+      "name": "Rehabilitation Counselors",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Statistics",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP United States History"
+      ]
+    },
+    {
+      "name": "Research Psychologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP Calculus AB",
+        "AP English Language and Composition",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Sales Engineers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Sales Worker Supervisors",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP English Language and Composition",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "School Psychologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Statistics",
+        "AP English Language and Composition",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Science Technicians",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Calculus AB",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Set and Exhibit Designers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Sociologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Human Geography",
+        "AP Statistics",
+        "AP English Language and Composition",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Software Developers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Special Education Teachers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP United States History",
+        "AP World History: Modern"
+      ]
+    },
+    {
+      "name": "Speech-Language Pathologists and Audiologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Speech-Language Pathology Assistants",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP English Language and Composition",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Statisticians",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Precalculus",
+        "AP Statistics",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Surgeons",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Surgical Technologists",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Calculus AB",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Technical Writers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Theater, Film, and TV Technicians",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Music Theory",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Top Executives",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Psychology",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Computer Science A",
+        "AP Computer Science Principles"
+      ]
+    },
+    {
+      "name": "Trainers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Psychology",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Translators",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP Spanish Language and Culture",
+        "AP French Language and Culture",
+        "AP German Language and Culture",
+        "AP Chinese Language and Culture",
+        "AP Japanese Language and Culture",
+        "AP Italian Language and Culture"
+      ]
+    },
+    {
+      "name": "Travel Agents",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Human Geography",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP Spanish Language and Culture",
+        "AP French Language and Culture",
+        "AP English Language and Composition",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Urban and Regional Planners",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Human Geography",
+        "AP Environmental Science",
+        "AP Comparative Government and Politics",
+        "AP United States Government and Politics",
+        "AP Psychology",
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Statistics",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Veterinarians",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Physics C: Mechanics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Veterinary Technicians",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Calculus AB",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Web Designers",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design",
+        "AP Drawing",
+        "AP Art History",
+        "AP Computer Science A",
+        "AP Computer Science Principles",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Wildlife Technicians",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP Biology",
+        "AP Environmental Science",
+        "AP Chemistry",
+        "AP Human Geography",
+        "AP Statistics",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Writers and Authors",
+      "ap_courses": [
+        "AP Research",
+        "AP Seminar",
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP Comparative Government and Politics",
+        "AP United States History",
+        "AP World History: Modern",
+        "AP Art History"
+      ]
+    }
+  ]
+}

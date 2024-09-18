@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Career Details</title>
-    <link rel="stylesheet" href="style.css">
+    <title>career Details</title>
+    <link rel="stylesheet" href="newcareer.css">
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6VYP0QJL5"></script>
@@ -23,18 +23,33 @@
             <a href="index.html">Home</a>
             <a href="majors.html">Select a Major</a>
             <a href="careers.html">Select a Career</a>
+            <span class="mobile-br"></span>
             <a href="all-courses.html">All Courses</a>
             <a href="contact.html">Contact</a>
         </nav>
-        <div class="title-section">
-            <h1 id="career-name"></h1>
-            <p id="career-details"></p>
+
+        <!-- Hero Section -->
+        <div class="hero-section" style="padding: 25px 0;">
+            <div class="container" style="margin-left: 10px; margin-right: 10px;">
+                        <div class="hero-content">
+                            <h1 id="hero-title" style="font-size: 2em;"></h1>
+                            <p id="hero-desc"></p>
+                        </div>
+            </div>
         </div>
     </header>
 
-    <main>
-        <div id="ap-courses-container">
+    <main class="course-lists-container">
+        <!-- College Board Recommended List -->
+        <div class="course-list-container" id="cb-recommended">
+            <h2>CB Recommended-Click course name for details</h2>
             <!-- AP courses will be dynamically inserted here -->
+        </div>
+
+        <!-- AI Recommended List -->
+        <div class="course-list-container" id="ai-recommended">
+            <h2>AI Recommended-Click course name for details</h2>
+            <!-- AP courses will be dynamically inserted here -->       
         </div>
     </main>
 

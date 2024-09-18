@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Major Details</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="newmajor.css">
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6VYP0QJL5"></script>
@@ -27,19 +27,34 @@
             <a href="all-courses.html">All Courses</a>
             <a href="contact.html">Contact</a>
         </nav>
-        <div class="title-section">
-            <h1 id="major-name"></h1>
-            <p id="major-details"></p>
+
+        <!-- Hero Section -->
+        <div class="hero-section" style="padding: 25px 0;">
+            <div class="container" style="margin-left: 10px; margin-right: 10px;">
+                        <div class="hero-content">
+                            <h1 id="hero-title" style="font-size: 2em;"></h1>
+                            <p id="hero-desc"></p>
+                        </div>
+            </div>
         </div>
     </header>
 
-    <main>
-        <div id="ap-courses-container">
+    <main class="course-lists-container">
+        <!-- College Board Recommended List -->
+        <div class="course-list-container" id="cb-recommended">
+            <h2>CB Recommended-Click course name for details</h2>
             <!-- AP courses will be dynamically inserted here -->
+        </div>
+
+        <!-- AI Recommended List -->
+        <div class="course-list-container" id="ai-recommended">
+            <h2>AI Recommended-Click course name for details</h2>
+            <!-- AP courses will be dynamically inserted here -->       
         </div>
     </main>
 
-    <script src="js/major.js"></script>
+    <script src="js/major_cb.js"></script>
+    <script src="js/major_ai.js"></script>
 
     <footer>
         <p>&copy; 2024 Ege Yilmaz - RC28. This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>. Please <a href="disclaimer.html" target="_blank">read the disclaimer</a>.</p>

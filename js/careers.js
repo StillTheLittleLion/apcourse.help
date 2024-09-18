@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Fetch the careers data from the JSON file
-    fetch('json/careers.json')
+    fetch('json/CBcareers.json')
         .then(response => response.json())
         .then(data => {
             const careersContainer = document.getElementById('careers-container');

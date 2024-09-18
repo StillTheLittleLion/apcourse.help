@@ -1,0 +1,1331 @@
+{
+  "majors": [
+    {
+      "name": "Accounting",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus AB",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Acting",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Art History"
+      ]
+    },
+    {
+      "name": "Advertising",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Art History",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "African American Studies",
+      "ap_courses": [
+        "AP United States History",
+        "AP World History: Modern",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Agricultural Engineering",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Calculus BC",
+        "AP Physics C: Mechanics",
+        "AP Chemistry",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Agriculture, General",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Biology",
+        "AP Environmental Science",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Air Transportation",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Physics 1: Algebra-Based"
+      ]
+    },
+    {
+      "name": "American Studies",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP United States History",
+        "AP Psychology",
+        "AP World History: Modern"
+      ]
+    },
+    {
+      "name": "Animal Sciences",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Anthropology",
+      "ap_courses": [
+        "AP Art History",
+        "AP World History: Modern",
+        "AP Psychology",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Applied Mathematics",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Statistics",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Applied Physics",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Physics C: Mechanics",
+        "AP Physics 2: Algebra-Based"
+      ]
+    },
+    {
+      "name": "Architectural Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Environmental Science",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Physics C: Mechanics",
+        "AP Art History"
+      ]
+    },
+    {
+      "name": "Area Studies",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP Comparative Government and Politics",
+        "AP Psychology",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Art History, Criticism, and Conservation",
+      "ap_courses": [
+        "AP Art History",
+        "AP Psychology",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Art Teacher Education",
+      "ap_courses": [
+        "AP Art History",
+        "AP 2-D Art and Design"
+      ]
+    },
+    {
+      "name": "Astronomy",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Physics C: Mechanics",
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Athletic Training",
+      "ap_courses": [
+        "AP Biology",
+        "AP Psychology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Atmospheric Sciences and Meteorology",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Physics C: Mechanics",
+        "AP Environmental Science",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Aviation Management",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Biochemistry",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Biology",
+        "AP Calculus BC"
+      ]
+    },
+    {
+      "name": "Biology, General",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Biomedical Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Biotechnology",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Botany",
+      "ap_courses": [
+        "AP Biology",
+        "AP Environmental Science",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Broadcast Journalism",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Business Administration and Management",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus AB",
+        "AP Statistics",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Business, General",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Chemistry",
+        "AP Physics C: Mechanics",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Chemistry",
+        "AP Physics C: Mechanics",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Child Care Management",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "City, Community, and Regional Planning",
+      "ap_courses": [
+        "AP Environmental Science",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Physics C: Mechanics",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Classics",
+      "ap_courses": [
+        "AP Latin",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Communication and Rhetoric",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Communication Sciences and Disorders",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Community Organization and Advocacy",
+      "ap_courses": [
+        "AP United States Government and Politics"
+      ]
+    },
+    {
+      "name": "Comparative Literature",
+      "ap_courses": [
+        "AP English Literature and Composition",
+        "AP European History"
+      ]
+    },
+    {
+      "name": "Computer Engineering, General",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Computer Forensics",
+      "ap_courses": [
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Computer Graphics",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Computer Networking and Telecommunications",
+      "ap_courses": [
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "ap_courses": [
+        "AP Computer Science A",
+        "AP Calculus BC",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Computer Software Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Construction Management",
+      "ap_courses": [
+        "AP Physics 1: Algebra-Based"
+      ]
+    },
+    {
+      "name": "Creative Writing",
+      "ap_courses": [
+        "AP English Language and Composition"
+      ]
+    },
+    {
+      "name": "Criminal Justice",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Criminology",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Dance",
+      "ap_courses": [
+        "AP Music Theory"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "ap_courses": [
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Design and Visual Communications",
+      "ap_courses": [
+        "AP Computer Science A",
+        "AP Art History"
+      ]
+    },
+    {
+      "name": "Digital Arts",
+      "ap_courses": [
+        "AP Art History"
+      ]
+    },
+    {
+      "name": "Drama and Dance Teacher Education",
+      "ap_courses": [
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Early Childhood Education",
+      "ap_courses": [
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Ecology",
+      "ap_courses": [
+        "AP Biology",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Economics",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Education",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Physics C: Electricity and Magnetism"
+      ]
+    },
+    {
+      "name": "Electronics Technology",
+      "ap_courses": [
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Elementary School Teaching",
+      "ap_courses": [
+        "AP English Language and Composition"
+      ]
+    },
+    {
+      "name": "Emergency Management/Homeland Security",
+      "ap_courses": [
+        "AP United States Government and Politics"
+      ]
+    },
+    {
+      "name": "Emergency Medical Technology",
+      "ap_courses": [
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Engineering and Industrial Management",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Physics 1: Algebra-Based"
+      ]
+    },
+    {
+      "name": "Engineering Technology",
+      "ap_courses": [
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "English",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Entrepreneurial Studies",
+      "ap_courses": [
+        "AP Microeconomics",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Environmental Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Environmental Science",
+      "ap_courses": [
+        "AP Environmental Science",
+        "AP Biology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Environmental Studies",
+      "ap_courses": [
+        "AP Environmental Science",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Ethnic Studies, General",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP United States History",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Exercise Science",
+      "ap_courses": [
+        "AP Biology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Family and Consumer Sciences",
+      "ap_courses": [
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Fashion Design",
+      "ap_courses": [
+        "AP Art History"
+      ]
+    },
+    {
+      "name": "Fashion Merchandising",
+      "ap_courses": [
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Film Production",
+      "ap_courses": [
+        "AP Art History"
+      ]
+    },
+    {
+      "name": "Film Studies",
+      "ap_courses": [
+        "AP Art History",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Finance",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Calculus BC"
+      ]
+    },
+    {
+      "name": "Fishing and Fisheries",
+      "ap_courses": [
+        "AP Biology",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Food Science",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Foods, Nutrition, and Wellness Studies",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Foreign Language Teacher Education",
+      "ap_courses": [
+        "AP Latin"
+      ]
+    },
+    {
+      "name": "Forensic Chemistry",
+      "ap_courses": [
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Forensic Science",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Forestry",
+      "ap_courses": [
+        "AP Environmental Science",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Genetics",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Geography",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Geology",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Environmental Science",
+        "AP Physics C: Mechanics",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Gerontology",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Global Studies",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "ap_courses": [
+        "AP Art History",
+        "AP 2-D Art and Design"
+      ]
+    },
+    {
+      "name": "High School Teaching",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP United States History"
+      ]
+    },
+    {
+      "name": "History",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP United States History",
+        "AP European History"
+      ]
+    },
+    {
+      "name": "Hospitality Administration and Management",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Hotel and Motel Management",
+      "ap_courses": [
+        "AP Microeconomics",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Human Development and Family Studies",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Human Resources Management",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Human Services",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Statistics" 
+      ]
+    },
+    {
+      "name": "Industrial Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Physics C: Mechanics",
+        "AP Chemistry",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Information Science",
+      "ap_courses": [
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "ap_courses": [
+        "AP Computer Science A",
+        "AP Calculus BC" 
+      ]
+    },
+    {
+      "name": "Insurance",
+      "ap_courses": [
+        "AP Microeconomics",
+        "AP Macroeconomics",
+        "AP Statistics",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Interior Design",
+      "ap_courses": [
+        "AP Art History",
+        "AP 3-D Art and Design" 
+      ]
+    },
+    {
+      "name": "International Business",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Comparative Government and Politics"
+      ]
+    },
+    {
+      "name": "International Relations",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP United States Government and Politics",
+        "AP Comparative Government and Politics"
+      ]
+    },
+    {
+      "name": "Japanese",
+      "ap_courses": [
+        "AP Japanese Language and Culture"
+      ]
+    },
+    {
+      "name": "Journalism",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP United States History" 
+      ]
+    },
+    {
+      "name": "Labor and Industrial Relations",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP Psychology",
+        "AP Microeconomics" 
+      ]
+    },
+    {
+      "name": "Landscape Architecture",
+      "ap_courses": [
+        "AP Art History",
+        "AP Environmental Science" 
+      ]
+    },
+    {
+      "name": "Library and Information Science",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Computer Science A",
+        "AP Statistics" 
+      ]
+    },
+    {
+      "name": "Linguistics",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Human Geography",
+        "AP Spanish Language and Culture"
+      ]
+    },
+    {
+      "name": "Management Information Systems",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Computer Science A",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Management Science",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Statistics",
+        "AP Microeconomics" 
+      ]
+    },
+    {
+      "name": "Marine Biology",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Marine Sciences",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "ap_courses": [
+        "AP Microeconomics",
+        "AP Psychology",
+        "AP Statistics" 
+      ]
+    },
+    {
+      "name": "Mass Communications",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Statistics" 
+      ]
+    },
+    {
+      "name": "Materials Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Chemistry",
+        "AP Physics C: Mechanics",
+        "AP Biology" 
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Statistics",
+        "AP Physics C: Mechanics" 
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Physics C: Mechanics",
+        "AP Computer Science A" 
+      ]
+    },
+    {
+      "name": "Middle School Teaching",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP United States History" 
+      ]
+    },
+    {
+      "name": "Ministry",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP World History: Modern"
+      ]
+    },
+    {
+      "name": "Molecular Biology",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Physics C: Mechanics" 
+      ]
+    },
+    {
+      "name": "Music",
+      "ap_courses": [
+        "AP Music Theory",
+        "AP 2-D Art and Design" 
+      ]
+    },
+    {
+      "name": "Musical Theater",
+      "ap_courses": [
+        "AP Music Theory",
+        "AP English Language and Composition" 
+      ]
+    },
+    {
+      "name": "Natural Resources and Conservation",
+      "ap_courses": [
+        "AP Environmental Science",
+        "AP Biology",
+        "AP Chemistry" 
+      ]
+    },
+    {
+      "name": "Natural Resources Management and Policy",
+      "ap_courses": [
+        "AP Environmental Science",
+        "AP Biology",
+        "AP Chemistry" 
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "ap_courses": [
+        "AP Biology",
+        "AP Psychology",
+        "AP Chemistry" 
+      ]
+    },
+    {
+      "name": "Nuclear Engineering",
+      "ap_courses": [
+        "AP Calculus BC",
+        "AP Physics C: Electricity and Magnetism",
+        "AP Chemistry",
+        "AP Physics C: Mechanics" 
+      ]
+    },
+    {
+      "name": "Nursing (RN)",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Psychology",
+        "AP Statistics" 
+      ]
+    },
+    {
+      "name": "Nutrition Sciences",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Biology",
+        "AP Statistics" 
+      ]
+    },
+    {
+      "name": "Office Management",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Statistics" 
+      ]
+    },
+    {
+      "name": "Operations Management",
+      "ap_courses": [
+        "AP Microeconomics",
+        "AP Macroeconomics",
+        "AP Statistics" 
+      ]
+    },
+    {
+      "name": "Paralegal Studies",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP English Language and Composition" 
+      ]
+    },
+    {
+      "name": "Peace and Conflict Resolution Studies",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP United States Government and Politics" 
+      ]
+    },
+    {
+      "name": "Pharmaceutical Sciences",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Biology",
+        "AP Calculus BC" 
+      ]
+    },
+    {
+      "name": "Philosophy",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP World History: Modern" 
+      ]
+    },
+    {
+      "name": "Physical Education Teaching and Coaching",
+      "ap_courses": [
+        "AP Biology",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Physician Assistance",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Psychology",
+        "AP Biology" 
+      ]
+    },
+    {
+      "name": "Physics",
+      "ap_courses": [
+        "AP Physics C: Electricity and Magnetism",
+        "AP Calculus BC",
+        "AP Physics C: Mechanics",
+        "AP Computer Science A"
+      ]
+    },
+    {
+      "name": "Political Science and Government",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP World History: Modern",
+        "AP Comparative Government and Politics" 
+      ]
+    },
+    {
+      "name": "Practical Nursing",
+      "ap_courses": [
+        "AP Biology",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Pre-Physical Therapy",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Predentistry",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Biology",
+        "AP Physics 1: Algebra-Based"
+      ]
+    },
+    {
+      "name": "Prelaw Studies",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP United States History",
+        "AP English Language and Composition"
+      ]
+    },
+    {
+      "name": "Premedicine",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Biology",
+        "AP Calculus BC"
+      ]
+    },
+    {
+      "name": "Prenursing Studies",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Biology",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Professional, Technical, Business, and Scientific Writing",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Psychology",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Statistics",
+        "AP Biology",
+        "AP English Language and Composition"
+      ]
+    },
+    {
+      "name": "Public Administration",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP Psychology",
+        "AP Macroeconomics"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Public Policy Analysis",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP Statistics",
+        "AP Macroeconomics"
+      ]
+    },
+    {
+      "name": "Public Relations",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Real Estate",
+      "ap_courses": [
+        "AP Macroeconomics",
+        "AP Microeconomics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Religious Studies",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "name": "Robotics Technology",
+      "ap_courses": [
+        "AP Computer Science A",
+        "AP Physics C: Mechanics"
+      ]
+    },
+    {
+      "name": "Social Work",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Statistics",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Sociology",
+      "ap_courses": [
+        "AP Psychology",
+        "AP United States Government and Politics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Soil Science",
+      "ap_courses": [
+        "AP Chemistry",
+        "AP Biology",
+        "AP Environmental Science"
+      ]
+    },
+    {
+      "name": "Spanish",
+      "ap_courses": [
+        "AP Spanish Language and Culture",
+        "AP English Language and Composition"
+      ]
+    },
+    {
+      "name": "Special Education",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Biology"
+      ]
+    },
+    {
+      "name": "Sports Communication",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "ap_courses": [
+        "AP Statistics",
+        "AP Calculus BC",
+        "AP Physics 1: Algebra-Based"
+      ]
+    },
+    {
+      "name": "Studio Arts",
+      "ap_courses": [
+        "AP Art History",
+        "AP 2-D Art and Design",
+        "AP 3-D Art and Design"
+      ]
+    },
+    {
+      "name": "Surgical Technology",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Sustainable Agriculture",
+      "ap_courses": [
+        "AP Environmental Science",
+        "AP Biology",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Theater Arts",
+      "ap_courses": [
+        "AP Psychology",
+        "AP English Literature and Composition",
+        "AP Art History"
+      ]
+    },
+    {
+      "name": "Theater Design and Stagecraft",
+      "ap_courses": [
+        "AP Art History",
+        "AP 2-D Art and Design"
+      ]
+    },
+    {
+      "name": "Tourism and Travel Management",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Urban Studies",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP Psychology",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Voice and Opera",
+      "ap_courses": [
+        "AP Music Theory",
+        "AP 2-D Art and Design"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "ap_courses": [
+        "AP Computer Science A",
+        "AP Calculus BC"
+      ]
+    },
+    {
+      "name": "Wildlife, Fish, and Wildlands Science and Management",
+      "ap_courses": [
+        "AP Biology",
+        "AP Environmental Science",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Zoology",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Environmental Science",
+        "AP Calculus AB"
+      ]
+    }
+  ]
+}

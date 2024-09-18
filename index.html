@@ -5,6 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AP Course Help</title>
     <link rel="stylesheet" href="style.css">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6VYP0QJL5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-K6VYP0QJL5', { anonymize_ip: true });
+    </script>
 </head>
 <body>
     <header class="index-header">
@@ -14,10 +24,10 @@
                 Selecting the right AP courses for your dream college can be challenging. While the College Board provides detailed information about individual courses, it's not always easy to get a complete picture of how these courses align with specific majors or careers.
             </p>
             <p class="instructions small-text">
-                This site is designed to help you understand which AP courses may lead to your degree accroding to College Board and, in some cases, even earn you college credits. Be sure to check with your college for their specific AP credit policies.
+                This site is designed to help you understand which AP courses may lead to your degree according to College Board and, in some cases, even earn you college credits. Be sure to check with your college for their specific AP credit policies.
             </p>
             <p class="instructions">
-                Get started by selecting either <span class="break-line"></span><strong>Majors</strong> or <strong>Careers</strong></span>.
+                Get started by selecting either <span class="break-line"></span><strong>Majors</strong> or <strong>Careers</strong>.
             </p>
         </div>
     </header>
@@ -51,7 +61,7 @@
     </footer>
 
     <!-- Cookie Consent Banner -->
-    <div id="cookie-consent-banner" class="cookie-consent-banner hidden">
+    <div id="cookie-consent-banner" class="cookie-consent-banner">
         <p>This site uses cookies for analytics. By continuing to use the site, you agree to the use of cookies. For more information, please see our <a href="disclaimer.html">Privacy Policy</a>.</p>
         <button id="accept-cookies">Accept</button>
         <button id="decline-cookies">Decline</button>
@@ -66,20 +76,20 @@
             // Check if the user has already given consent
             const consentGiven = localStorage.getItem('cookieConsent');
 
+            // Show the banner if consent is not given yet
             if (!consentGiven) {
-                // Show the banner if consent is not given yet
-                consentBanner.classList.remove('hidden');
+                consentBanner.style.display = 'block';  // Display the banner
             }
 
             acceptBtn.addEventListener('click', () => {
                 localStorage.setItem('cookieConsent', 'accepted');
-                consentBanner.classList.add('hidden');
+                consentBanner.style.display = 'none';
                 loadGoogleAnalytics();  // Load analytics script
             });
 
             declineBtn.addEventListener('click', () => {
                 localStorage.setItem('cookieConsent', 'declined');
-                consentBanner.classList.add('hidden');
+                consentBanner.style.display = 'none';
             });
 
             // Function to load Google Analytics script

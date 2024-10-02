@@ -164,7 +164,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
          // major Score bead with custom labels
-    const majorScore = parseFloat(apCourse.attributes['major Score']);
+    const majorScore = parseFloat(apCourse.attributes['Major Score']);
     let majorScoreLabel = '';
     if (majorScore < 10) {
         majorScoreLabel = `Specialized Course: Recommended for ${Math.floor(majorScore)}% of all majors`;
@@ -176,7 +176,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const majorScoreBeadSpan = document.createElement('span');
     majorScoreBeadSpan.classList.add('bead', 'majorScore');
-    majorScoreBeadSpan.textContent = `C%:${majorScore}`;
+    majorScoreBeadSpan.textContent = `M%:${majorScore}`;
     beadContDiv.appendChild(majorScoreBeadSpan);
 
     const majorScoreBeadSpan2 = document.createElement('span');

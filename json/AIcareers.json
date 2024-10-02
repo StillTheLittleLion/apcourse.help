@@ -149,7 +149,9 @@
         "AP Biology",
         "AP Environmental Science",
         "AP Statistics",
-        "AP Psychology"
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -585,7 +587,9 @@
         "AP Macroeconomics",
         "AP Statistics",
         "AP Calculus BC",
-        "AP Computer Science A"
+        "AP Computer Science A",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -688,7 +692,9 @@
         "AP Biology",
         "AP Chemistry",
         "AP Statistics",
-        "AP Calculus AB"
+        "AP Calculus AB",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -801,7 +807,9 @@
         "AP Human Geography",
         "AP Environmental Science",
         "AP Statistics",
-        "AP World History: Modern"
+        "AP World History: Modern",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -870,7 +878,9 @@
         "AP United States History",
         "AP European History",
         "AP English Language and Composition",
-        "AP Human Geography"
+        "AP Human Geography",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1051,7 +1061,9 @@
         "AP Psychology",
         "AP Microeconomics",
         "AP English Language and Composition",
-        "AP Computer Science Principles"
+        "AP Computer Science Principles",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1219,7 +1231,9 @@
         "AP United States Government and Politics",
         "AP World History: Modern",
         "AP Statistics",
-        "AP Psychology"
+        "AP Psychology",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1353,7 +1367,9 @@
         "AP Statistics",
         "AP World History: Modern",
         "AP Macroeconomics",
-        "AP English Language and Composition"
+        "AP English Language and Composition",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1362,7 +1378,9 @@
         "AP English Language and Composition",
         "AP English Literature and Composition",
         "AP Psychology",
-        "AP Statistics"
+        "AP Statistics",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1442,7 +1460,9 @@
         "AP Psychology",
         "AP Statistics",
         "AP Biology",
-        "AP English Language and Composition"
+        "AP English Language and Composition",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1499,7 +1519,9 @@
         "AP Statistics",
         "AP Human Geography",
         "AP United States Government and Politics",
-        "AP World History: Modern"
+        "AP World History: Modern",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1574,7 +1596,9 @@
         "AP Environmental Science",
         "AP Statistics",
         "AP Microeconomics",
-        "AP United States Government and Politics"
+        "AP United States Government and Politics",
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {

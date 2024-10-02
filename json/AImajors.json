@@ -4,7 +4,6 @@
       "name": "Accounting",
       "ap_courses": [
         "AP Calculus AB",
-        "AP Calculus BC",
         "AP Statistics",
         "AP Microeconomics",
         "AP Macroeconomics",
@@ -17,8 +16,8 @@
         "AP English Literature and Composition",
         "AP Psychology",
         "AP Art History",
-        "AP European History",
-        "AP World History: Modern"
+        "AP Music Theory",
+        "AP European History"
       ]
     },
     {
@@ -28,9 +27,7 @@
         "AP English Language and Composition",
         "AP Statistics",
         "AP Art History",
-        "AP Microeconomics",
-        "AP Macroeconomics",
-        "AP Computer Science Principles"
+        "AP Microeconomics"
       ]
     },
     {
@@ -40,8 +37,7 @@
         "AP Physics C: Mechanics",
         "AP Physics C: Electricity and Magnetism",
         "AP Chemistry",
-        "AP Computer Science A",
-        "AP Statistics"
+        "AP Computer Science A"
       ]
     },
     {
@@ -51,22 +47,17 @@
         "AP English Literature and Composition",
         "AP Human Geography",
         "AP World History: Modern",
-        "AP United States Government and Politics",
-        "AP Psychology",
-        "AP English Language and Composition"
+        "AP United States Government and Politics"
       ]
     },
     {
       "name": "Agricultural Engineering",
       "ap_courses": [
         "AP Calculus AB",
-        "AP Calculus BC",
         "AP Physics 1: Algebra-Based",
         "AP Biology",
         "AP Environmental Science",
-        "AP Chemistry",
-        "AP Statistics",
-        "AP Computer Science A"
+        "AP Chemistry"
       ]
     },
     {
@@ -86,9 +77,7 @@
         "AP Calculus AB",
         "AP Environmental Science",
         "AP Human Geography",
-        "AP Macroeconomics",
-        "AP Statistics",
-        "AP Computer Science Principles"
+        "AP Macroeconomics"
       ]
     },
     {
@@ -99,8 +88,8 @@
         "AP United States Government and Politics",
         "AP Human Geography",
         "AP Art History",
-        "AP World History: Modern",
-        "AP English Language and Composition"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -121,7 +110,8 @@
         "AP Biology",
         "AP Psychology",
         "AP Statistics",
-        "AP English Language and Composition"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -131,8 +121,7 @@
         "AP Statistics",
         "AP Physics C: Mechanics",
         "AP Computer Science A",
-        "AP Microeconomics",
-        "AP Physics C: Electricity and Magnetism"
+        "AP Microeconomics"
       ]
     },
     {
@@ -142,8 +131,7 @@
         "AP Physics C: Electricity and Magnetism",
         "AP Calculus BC",
         "AP Chemistry",
-        "AP Computer Science A",
-        "AP Statistics"
+        "AP Computer Science A"
       ]
     },
     {
@@ -153,9 +141,7 @@
         "AP Physics C: Mechanics",
         "AP Art History",
         "AP Environmental Science",
-        "AP Computer Science Principles",
-        "AP Statistics",
-        "AP 3-D Art and Design"
+        "AP Computer Science Principles"
       ]
     },
     {
@@ -165,9 +151,7 @@
         "AP Physics 1: Algebra-Based",
         "AP Art History",
         "AP 2-D Art and Design",
-        "AP 3-D Art and Design",
-        "AP Environmental Science",
-        "AP Drawing"
+        "AP Environmental Science"
       ]
     },
     {
@@ -177,9 +161,7 @@
         "AP Human Geography",
         "AP Comparative Government and Politics",
         "AP English Literature and Composition",
-        "AP Art History",
-        "AP Macroeconomics",
-        "AP Psychology"
+        "AP Art History"
       ]
     },
     {
@@ -189,9 +171,7 @@
         "AP European History",
         "AP World History: Modern",
         "AP English Literature and Composition",
-        "AP 2-D Art and Design",
-        "AP 3-D Art and Design",
-        "AP Drawing"
+        "AP 2-D Art and Design"
       ]
     },
     {
@@ -200,7 +180,6 @@
         "AP Art History",
         "AP 2-D Art and Design",
         "AP 3-D Art and Design",
-        "AP Drawing",
         "AP Psychology",
         "AP English Language and Composition"
       ]
@@ -212,8 +191,7 @@
         "AP Physics C: Electricity and Magnetism",
         "AP Calculus BC",
         "AP Computer Science A",
-        "AP Chemistry",
-        "AP Statistics"
+        "AP Chemistry"
       ]
     },
     {
@@ -233,8 +211,7 @@
         "AP Physics C: Mechanics",
         "AP Calculus BC",
         "AP Statistics",
-        "AP Computer Science A",
-        "AP Chemistry"
+        "AP Computer Science A"
       ]
     },
     {
@@ -244,8 +221,7 @@
         "AP Calculus AB",
         "AP Microeconomics",
         "AP Macroeconomics",
-        "AP Statistics",
-        "AP Computer Science Principles"
+        "AP Statistics"
       ]
     },
     {
@@ -265,8 +241,7 @@
         "AP Chemistry",
         "AP Statistics",
         "AP Environmental Science",
-        "AP Calculus AB",
-        "AP Physics 1: Algebra-Based"
+        "AP Calculus AB"
       ]
     },
     {
@@ -276,8 +251,7 @@
         "AP Chemistry",
         "AP Calculus BC",
         "AP Physics C: Mechanics",
-        "AP Computer Science A",
-        "AP Statistics"
+        "AP Computer Science A"
       ]
     },
     {
@@ -287,8 +261,7 @@
         "AP Chemistry",
         "AP Statistics",
         "AP Calculus BC",
-        "AP Computer Science A",
-        "AP Environmental Science"
+        "AP Computer Science A"
       ]
     },
     {
@@ -308,8 +281,7 @@
         "AP United States Government and Politics",
         "AP Statistics",
         "AP Psychology",
-        "AP Computer Science Principles",
-        "AP Comparative Government and Politics"
+        "AP Computer Science Principles"
       ]
     },
     {
@@ -319,9 +291,7 @@
         "AP Macroeconomics",
         "AP Statistics",
         "AP Calculus AB",
-        "AP Psychology",
-        "AP Computer Science Principles",
-        "AP English Language and Composition"
+        "AP Psychology"
       ]
     },
     {
@@ -331,9 +301,7 @@
         "AP Macroeconomics",
         "AP Statistics",
         "AP Calculus AB",
-        "AP English Language and Composition",
-        "AP Psychology",
-        "AP Computer Science Principles"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -343,9 +311,7 @@
         "AP Calculus BC",
         "AP Physics C: Mechanics",
         "AP Biology",
-        "AP Computer Science A",
-        "AP Statistics",
-        "AP Physics C: Electricity and Magnetism"
+        "AP Computer Science A"
       ]
     },
     {
@@ -355,8 +321,7 @@
         "AP Calculus BC",
         "AP Physics C: Mechanics",
         "AP Biology",
-        "AP Statistics",
-        "AP Computer Science A"
+        "AP Statistics"
       ]
     },
     {
@@ -376,9 +341,7 @@
         "AP Environmental Science",
         "AP Statistics",
         "AP United States Government and Politics",
-        "AP Microeconomics",
-        "AP Psychology",
-        "AP Comparative Government and Politics"
+        "AP Microeconomics"
       ]
     },
     {
@@ -388,8 +351,7 @@
         "AP Physics C: Mechanics",
         "AP Chemistry",
         "AP Environmental Science",
-        "AP Computer Science A",
-        "AP Statistics"
+        "AP Computer Science A"
       ]
     },
     {
@@ -399,8 +361,7 @@
         "AP English Literature and Composition",
         "AP European History",
         "AP Art History",
-        "AP World History: Modern",
-        "AP Human Geography"
+        "AP World History: Modern"
       ]
     },
     {
@@ -410,9 +371,7 @@
         "AP English Literature and Composition",
         "AP Psychology",
         "AP United States Government and Politics",
-        "AP Statistics",
-        "AP Research",
-        "AP Seminar"
+        "AP Statistics"
       ]
     },
     {
@@ -432,9 +391,7 @@
         "AP Human Geography",
         "AP Psychology",
         "AP Statistics",
-        "AP English Language and Composition",
-        "AP Comparative Government and Politics",
-        "AP Macroeconomics"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -444,9 +401,7 @@
         "AP English Language and Composition",
         "AP World History: Modern",
         "AP European History",
-        "AP Art History",
-        "AP Spanish Literature and Culture",
-        "AP French Language and Culture"
+        "AP Art History"
       ]
     },
     {
@@ -456,8 +411,7 @@
         "AP Calculus BC",
         "AP Physics C: Electricity and Magnetism",
         "AP Physics C: Mechanics",
-        "AP Statistics",
-        "AP Computer Science Principles"
+        "AP Statistics"
       ]
     },
     {
@@ -477,8 +431,7 @@
         "AP Calculus BC",
         "AP Physics C: Mechanics",
         "AP 2-D Art and Design",
-        "AP Statistics",
-        "AP Computer Science Principles"
+        "AP Statistics"
       ]
     },
     {
@@ -508,8 +461,7 @@
         "AP Calculus BC",
         "AP Physics C: Mechanics",
         "AP Statistics",
-        "AP English Language and Composition",
-        "AP Computer Science Principles"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -519,8 +471,7 @@
         "AP Physics 1: Algebra-Based",
         "AP Statistics",
         "AP Microeconomics",
-        "AP Environmental Science",
-        "AP Computer Science Principles"
+        "AP Environmental Science"
       ]
     },
     {
@@ -530,8 +481,7 @@
         "AP English Language and Composition",
         "AP Psychology",
         "AP Art History",
-        "AP World History: Modern",
-        "AP European History"
+        "AP World History: Modern"
       ]
     },
     {
@@ -541,8 +491,7 @@
         "AP Psychology",
         "AP Statistics",
         "AP English Language and Composition",
-        "AP Human Geography",
-        "AP Comparative Government and Politics"
+        "AP Human Geography"
       ]
     },
     {
@@ -552,8 +501,7 @@
         "AP Statistics",
         "AP United States Government and Politics",
         "AP Human Geography",
-        "AP Biology",
-        "AP Comparative Government and Politics"
+        "AP Biology"
       ]
     },
     {
@@ -583,8 +531,7 @@
         "AP Art History",
         "AP Computer Science Principles",
         "AP Psychology",
-        "AP Statistics",
-        "AP English Language and Composition"
+        "AP Statistics"
       ]
     },
     {
@@ -594,8 +541,7 @@
         "AP Computer Science Principles",
         "AP Art History",
         "AP Statistics",
-        "AP English Language and Composition",
-        "AP Drawing"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -605,8 +551,7 @@
         "AP Psychology",
         "AP Art History",
         "AP Music Theory",
-        "AP Human Geography",
-        "AP English Language and Composition"
+        "AP Human Geography"
       ]
     },
     {
@@ -636,8 +581,7 @@
         "AP Macroeconomics",
         "AP Statistics",
         "AP Calculus BC",
-        "AP Computer Science A",
-        "AP Psychology"
+        "AP Computer Science A"
       ]
     },
     {
@@ -647,9 +591,7 @@
         "AP English Language and Composition",
         "AP United States History",
         "AP Biology",
-        "AP Statistics",
-        "AP Human Geography",
-        "AP World History: Modern"
+        "AP Statistics"
       ]
     },
     {
@@ -659,8 +601,7 @@
         "AP Calculus BC",
         "AP Computer Science A",
         "AP Physics C: Mechanics",
-        "AP Chemistry",
-        "AP Statistics"
+        "AP Chemistry"
       ]
     },
     {
@@ -680,9 +621,7 @@
         "AP English Language and Composition",
         "AP United States History",
         "AP Biology",
-        "AP Statistics",
-        "AP Human Geography",
-        "AP Environmental Science"
+        "AP Statistics"
       ]
     },
     {
@@ -692,8 +631,7 @@
         "AP Psychology",
         "AP Statistics",
         "AP Environmental Science",
-        "AP Human Geography",
-        "AP Comparative Government and Politics"
+        "AP Human Geography"
       ]
     },
     {
@@ -713,8 +651,7 @@
         "AP Physics C: Mechanics",
         "AP Statistics",
         "AP Microeconomics",
-        "AP Computer Science A",
-        "AP Chemistry"
+        "AP Computer Science A"
       ]
     },
     {
@@ -724,8 +661,7 @@
         "AP Physics C: Mechanics",
         "AP Computer Science A",
         "AP Chemistry",
-        "AP Statistics",
-        "AP Physics C: Electricity and Magnetism"
+        "AP Statistics"
       ]
     },
     {
@@ -736,7 +672,8 @@
         "AP World History: Modern",
         "AP European History",
         "AP Art History",
-        "AP Psychology"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -746,8 +683,7 @@
         "AP Macroeconomics",
         "AP Statistics",
         "AP Calculus AB",
-        "AP Psychology",
-        "AP Computer Science Principles"
+        "AP Psychology"
       ]
     },
     {
@@ -757,8 +693,7 @@
         "AP Chemistry",
         "AP Calculus BC",
         "AP Physics C: Mechanics",
-        "AP Biology",
-        "AP Statistics"
+        "AP Biology"
       ]
     },
     {
@@ -768,8 +703,7 @@
         "AP Biology",
         "AP Chemistry",
         "AP Statistics",
-        "AP Calculus AB",
-        "AP Physics 1: Algebra-Based"
+        "AP Calculus AB"
       ]
     },
     {
@@ -780,7 +714,8 @@
         "AP Biology",
         "AP Statistics",
         "AP United States Government and Politics",
-        "AP Chemistry"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -791,7 +726,8 @@
         "AP United States History",
         "AP English Literature and Composition",
         "AP Psychology",
-        "AP Comparative Government and Politics"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -821,8 +757,7 @@
         "AP Art History",
         "AP Psychology",
         "AP Statistics",
-        "AP Microeconomics",
-        "AP Drawing"
+        "AP Microeconomics"
       ]
     },
     {
@@ -832,8 +767,7 @@
         "AP Statistics",
         "AP Microeconomics",
         "AP Macroeconomics",
-        "AP 2-D Art and Design",
-        "AP Art History"
+        "AP 2-D Art and Design"
       ]
     },
     {
@@ -843,8 +777,7 @@
         "AP Art History",
         "AP English Literature and Composition",
         "AP Physics 1: Algebra-Based",
-        "AP Psychology",
-        "AP Computer Science Principles"
+        "AP Psychology"
       ]
     },
     {
@@ -854,8 +787,7 @@
         "AP Art History",
         "AP World History: Modern",
         "AP Psychology",
-        "AP European History",
-        "AP Comparative Government and Politics"
+        "AP European History"
       ]
     },
     {
@@ -865,8 +797,7 @@
         "AP Statistics",
         "AP Microeconomics",
         "AP Macroeconomics",
-        "AP Computer Science A",
-        "AP Psychology"
+        "AP Computer Science A"
       ]
     },
     {
@@ -906,9 +837,7 @@
         "AP French Language and Culture",
         "AP German Language and Culture",
         "AP Psychology",
-        "AP English Language and Composition",
-        "AP Human Geography",
-        "AP World History: Modern"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -948,8 +877,7 @@
         "AP Chemistry",
         "AP Statistics",
         "AP Calculus BC",
-        "AP Computer Science A",
-        "AP Physics 1: Algebra-Based"
+        "AP Computer Science A"
       ]
     },
     {
@@ -959,8 +887,7 @@
         "AP Environmental Science",
         "AP World History: Modern",
         "AP Statistics",
-        "AP Comparative Government and Politics",
-        "AP Psychology"
+        "AP Comparative Government and Politics"
       ]
     },
     {
@@ -970,8 +897,7 @@
         "AP Chemistry",
         "AP Physics C: Mechanics",
         "AP Calculus BC",
-        "AP Statistics",
-        "AP Biology"
+        "AP Statistics"
       ]
     },
     {
@@ -992,8 +918,8 @@
         "AP Comparative Government and Politics",
         "AP Macroeconomics",
         "AP English Language and Composition",
-        "AP Psychology",
-        "AP Environmental Science"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1003,8 +929,7 @@
         "AP Art History",
         "AP Computer Science Principles",
         "AP Psychology",
-        "AP Statistics",
-        "AP Drawing"
+        "AP Statistics"
       ]
     },
     {
@@ -1014,9 +939,7 @@
         "AP Psychology",
         "AP United States History",
         "AP Biology",
-        "AP Calculus AB",
-        "AP World History: Modern",
-        "AP Chemistry"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1027,8 +950,8 @@
         "AP European History",
         "AP Art History",
         "AP English Literature and Composition",
-        "AP Human Geography",
-        "AP Comparative Government and Politics"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1038,8 +961,7 @@
         "AP Statistics",
         "AP Psychology",
         "AP Human Geography",
-        "AP English Language and Composition",
-        "AP Macroeconomics"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1049,8 +971,7 @@
         "AP Statistics",
         "AP Psychology",
         "AP Human Geography",
-        "AP Calculus AB",
-        "AP Macroeconomics"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1070,8 +991,7 @@
         "AP Statistics",
         "AP Microeconomics",
         "AP English Language and Composition",
-        "AP Calculus AB",
-        "AP Macroeconomics"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1081,8 +1001,7 @@
         "AP Statistics",
         "AP Biology",
         "AP United States Government and Politics",
-        "AP English Language and Composition",
-        "AP Human Geography"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1092,8 +1011,7 @@
         "AP Physics C: Mechanics",
         "AP Statistics",
         "AP Computer Science A",
-        "AP Chemistry",
-        "AP Microeconomics"
+        "AP Chemistry"
       ]
     },
     {
@@ -1103,8 +1021,7 @@
         "AP Computer Science Principles",
         "AP Statistics",
         "AP Calculus AB",
-        "AP English Language and Composition",
-        "AP Psychology"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1114,8 +1031,7 @@
         "AP Computer Science Principles",
         "AP Calculus AB",
         "AP Statistics",
-        "AP Physics 1: Algebra-Based",
-        "AP English Language and Composition"
+        "AP Physics 1: Algebra-Based"
       ]
     },
     {
@@ -1125,8 +1041,7 @@
         "AP Calculus AB",
         "AP Microeconomics",
         "AP Macroeconomics",
-        "AP Psychology",
-        "AP Computer Science Principles"
+        "AP Psychology"
       ]
     },
     {
@@ -1136,8 +1051,7 @@
         "AP 3-D Art and Design",
         "AP Art History",
         "AP Psychology",
-        "AP Environmental Science",
-        "AP Drawing"
+        "AP Environmental Science"
       ]
     },
     {
@@ -1147,9 +1061,7 @@
         "AP Macroeconomics",
         "AP Statistics",
         "AP Comparative Government and Politics",
-        "AP World History: Modern",
-        "AP Human Geography",
-        "AP English Language and Composition"
+        "AP World History: Modern"
       ]
     },
     {
@@ -1160,8 +1072,8 @@
         "AP Human Geography",
         "AP Macroeconomics",
         "AP English Language and Composition",
-        "AP Statistics",
-        "AP Psychology"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1171,8 +1083,7 @@
         "AP English Language and Composition",
         "AP World History: Modern",
         "AP Human Geography",
-        "AP Art History",
-        "AP Comparative Government and Politics"
+        "AP Art History"
       ]
     },
     {
@@ -1183,7 +1094,8 @@
         "AP Statistics",
         "AP Psychology",
         "AP World History: Modern",
-        "AP Comparative Government and Politics"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1193,8 +1105,7 @@
         "AP United States Government and Politics",
         "AP Statistics",
         "AP Psychology",
-        "AP Human Geography",
-        "AP Macroeconomics"
+        "AP Human Geography"
       ]
     },
     {
@@ -1204,9 +1115,7 @@
         "AP 2-D Art and Design",
         "AP 3-D Art and Design",
         "AP Calculus AB",
-        "AP Biology",
-        "AP Drawing",
-        "AP Physics 1: Algebra-Based"
+        "AP Biology"
       ]
     },
     {
@@ -1216,9 +1125,7 @@
         "AP Computer Science Principles",
         "AP Statistics",
         "AP Psychology",
-        "AP World History: Modern",
-        "AP Research",
-        "AP Seminar"
+        "AP World History: Modern"
       ]
     },
     {
@@ -1228,8 +1135,7 @@
         "AP Spanish Language and Culture",
         "AP French Language and Culture",
         "AP Psychology",
-        "AP Statistics",
-        "AP Computer Science Principles"
+        "AP Statistics"
       ]
     },
     {
@@ -1239,8 +1145,7 @@
         "AP Statistics",
         "AP Calculus AB",
         "AP Microeconomics",
-        "AP English Language and Composition",
-        "AP Psychology"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1250,8 +1155,7 @@
         "AP Statistics",
         "AP Microeconomics",
         "AP Computer Science A",
-        "AP Physics 1: Algebra-Based",
-        "AP Psychology"
+        "AP Physics 1: Algebra-Based"
       ]
     },
     {
@@ -1261,8 +1165,7 @@
         "AP Environmental Science",
         "AP Chemistry",
         "AP Statistics",
-        "AP Calculus AB",
-        "AP Physics 1: Algebra-Based"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1272,8 +1175,7 @@
         "AP Biology",
         "AP Chemistry",
         "AP Physics C: Mechanics",
-        "AP Calculus BC",
-        "AP Statistics"
+        "AP Calculus BC"
       ]
     },
     {
@@ -1283,9 +1185,7 @@
         "AP Statistics",
         "AP Microeconomics",
         "AP English Language and Composition",
-        "AP Calculus AB",
-        "AP Macroeconomics",
-        "AP Computer Science Principles"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1295,9 +1195,7 @@
         "AP Psychology",
         "AP United States Government and Politics",
         "AP Statistics",
-        "AP Computer Science Principles",
-        "AP Research",
-        "AP Seminar"
+        "AP Computer Science Principles"
       ]
     },
     {
@@ -1307,8 +1205,7 @@
         "AP Physics C: Mechanics",
         "AP Calculus BC",
         "AP Computer Science A",
-        "AP Statistics",
-        "AP Physics C: Electricity and Magnetism"
+        "AP Statistics"
       ]
     },
     {
@@ -1318,8 +1215,7 @@
         "AP Statistics",
         "AP Computer Science A",
         "AP Physics C: Mechanics",
-        "AP Chemistry",
-        "AP Physics C: Electricity and Magnetism"
+        "AP Chemistry"
       ]
     },
     {
@@ -1329,8 +1225,7 @@
         "AP Physics C: Mechanics",
         "AP Physics C: Electricity and Magnetism",
         "AP Chemistry",
-        "AP Computer Science A",
-        "AP Statistics"
+        "AP Computer Science A"
       ]
     },
     {
@@ -1340,9 +1235,7 @@
         "AP United States History",
         "AP Biology",
         "AP Psychology",
-        "AP Calculus AB",
-        "AP World History: Modern",
-        "AP Environmental Science"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1352,8 +1245,7 @@
         "AP Psychology",
         "AP English Literature and Composition",
         "AP Art History",
-        "AP Human Geography",
-        "AP Comparative Government and Politics"
+        "AP Human Geography"
       ]
     },
     {
@@ -1363,8 +1255,7 @@
         "AP Chemistry",
         "AP Calculus BC",
         "AP Statistics",
-        "AP Physics C: Mechanics",
-        "AP Computer Science A"
+        "AP Physics C: Mechanics"
       ]
     },
     {
@@ -1374,8 +1265,7 @@
         "AP Art History",
         "AP Psychology",
         "AP English Literature and Composition",
-        "AP European History",
-        "AP World History: Modern"
+        "AP European History"
       ]
     },
     {
@@ -1385,8 +1275,7 @@
         "AP English Literature and Composition",
         "AP Psychology",
         "AP Art History",
-        "AP European History",
-        "AP World History: Modern"
+        "AP European History"
       ]
     },
     {
@@ -1396,8 +1285,7 @@
         "AP Biology",
         "AP Chemistry",
         "AP Statistics",
-        "AP Human Geography",
-        "AP Calculus AB"
+        "AP Human Geography"
       ]
     },
     {
@@ -1407,9 +1295,7 @@
         "AP United States Government and Politics",
         "AP Statistics",
         "AP Biology",
-        "AP Microeconomics",
-        "AP Human Geography",
-        "AP Comparative Government and Politics"
+        "AP Microeconomics"
       ]
     },
     {
@@ -1419,8 +1305,7 @@
         "AP Psychology",
         "AP Chemistry",
         "AP Statistics",
-        "AP Calculus BC",
-        "AP Physics 1: Algebra-Based"
+        "AP Calculus BC"
       ]
     },
     {
@@ -1430,8 +1315,7 @@
         "AP Physics C: Electricity and Magnetism",
         "AP Calculus BC",
         "AP Chemistry",
-        "AP Computer Science A",
-        "AP Statistics"
+        "AP Computer Science A"
       ]
     },
     {
@@ -1441,8 +1325,7 @@
         "AP Chemistry",
         "AP Psychology",
         "AP Statistics",
-        "AP English Language and Composition",
-        "AP Calculus AB"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1452,8 +1335,7 @@
         "AP Chemistry",
         "AP Statistics",
         "AP Psychology",
-        "AP Calculus AB",
-        "AP Environmental Science"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1463,8 +1345,7 @@
         "AP Statistics",
         "AP Microeconomics",
         "AP Psychology",
-        "AP Computer Science Principles",
-        "AP Calculus AB"
+        "AP Computer Science Principles"
       ]
     },
     {
@@ -1474,8 +1355,7 @@
         "AP Calculus AB",
         "AP Microeconomics",
         "AP Computer Science A",
-        "AP Physics 1: Algebra-Based",
-        "AP Psychology"
+        "AP Physics 1: Algebra-Based"
       ]
     },
     {
@@ -1485,8 +1365,7 @@
         "AP English Language and Composition",
         "AP United States History",
         "AP Psychology",
-        "AP Statistics",
-        "AP Comparative Government and Politics"
+        "AP Statistics"
       ]
     },
     {
@@ -1497,8 +1376,8 @@
         "AP Human Geography",
         "AP Psychology",
         "AP Statistics",
-        "AP English Language and Composition",
-        "AP United States Government and Politics"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1508,8 +1387,7 @@
         "AP Biology",
         "AP Calculus BC",
         "AP Statistics",
-        "AP Physics 1: Algebra-Based",
-        "AP Psychology"
+        "AP Physics 1: Algebra-Based"
       ]
     },
     {
@@ -1519,9 +1397,7 @@
         "AP World History: Modern",
         "AP Psychology",
         "AP European History",
-        "AP United States Government and Politics",
-        "AP Comparative Government and Politics",
-        "AP Research"
+        "AP United States Government and Politics"
       ]
     },
     {
@@ -1531,8 +1407,7 @@
         "AP Psychology",
         "AP Statistics",
         "AP English Language and Composition",
-        "AP Physics 1: Algebra-Based",
-        "AP Human Geography"
+        "AP Physics 1: Algebra-Based"
       ]
     },
     {
@@ -1542,8 +1417,7 @@
         "AP Chemistry",
         "AP Psychology",
         "AP Statistics",
-        "AP Calculus AB",
-        "AP Physics 1: Algebra-Based"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1553,8 +1427,7 @@
         "AP Physics C: Electricity and Magnetism",
         "AP Calculus BC",
         "AP Computer Science A",
-        "AP Chemistry",
-        "AP Statistics"
+        "AP Chemistry"
       ]
     },
     {
@@ -1565,8 +1438,8 @@
         "AP World History: Modern",
         "AP Statistics",
         "AP English Language and Composition",
-        "AP Macroeconomics",
-        "AP Psychology"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1576,8 +1449,7 @@
         "AP Psychology",
         "AP Statistics",
         "AP Chemistry",
-        "AP English Language and Composition",
-        "AP Calculus AB"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1587,8 +1459,7 @@
         "AP Chemistry",
         "AP Physics 1: Algebra-Based",
         "AP Psychology",
-        "AP Statistics",
-        "AP Calculus AB"
+        "AP Statistics"
       ]
     },
     {
@@ -1598,8 +1469,7 @@
         "AP Chemistry",
         "AP Physics 1: Algebra-Based",
         "AP Calculus AB",
-        "AP Statistics",
-        "AP Psychology"
+        "AP Statistics"
       ]
     },
     {
@@ -1609,9 +1479,7 @@
         "AP English Language and Composition",
         "AP United States History",
         "AP Psychology",
-        "AP Statistics",
-        "AP Comparative Government and Politics",
-        "AP World History: Modern"
+        "AP Statistics"
       ]
     },
     {
@@ -1621,9 +1489,7 @@
         "AP Chemistry",
         "AP Physics 1: Algebra-Based",
         "AP Calculus BC",
-        "AP Statistics",
-        "AP Psychology",
-        "AP English Language and Composition"
+        "AP Statistics"
       ]
     },
     {
@@ -1633,8 +1499,7 @@
         "AP Chemistry",
         "AP Psychology",
         "AP Statistics",
-        "AP English Language and Composition",
-        "AP Calculus AB"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1644,9 +1509,7 @@
         "AP English Literature and Composition",
         "AP Computer Science Principles",
         "AP Psychology",
-        "AP Statistics",
-        "AP Research",
-        "AP Seminar"
+        "AP Statistics"
       ]
     },
     {
@@ -1657,7 +1520,8 @@
         "AP Statistics",
         "AP English Language and Composition",
         "AP Calculus AB",
-        "AP Research"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1667,9 +1531,7 @@
         "AP Macroeconomics",
         "AP Statistics",
         "AP English Language and Composition",
-        "AP Human Geography",
-        "AP Comparative Government and Politics",
-        "AP Microeconomics"
+        "AP Human Geography"
       ]
     },
     {
@@ -1679,9 +1541,7 @@
         "AP Statistics",
         "AP Environmental Science",
         "AP Psychology",
-        "AP Chemistry",
-        "AP United States Government and Politics",
-        "AP Human Geography"
+        "AP Chemistry"
       ]
     },
     {
@@ -1692,8 +1552,8 @@
         "AP Statistics",
         "AP Comparative Government and Politics",
         "AP English Language and Composition",
-        "AP Macroeconomics",
-        "AP Research"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1703,9 +1563,7 @@
         "AP Psychology",
         "AP Statistics",
         "AP United States Government and Politics",
-        "AP Microeconomics",
-        "AP Computer Science Principles",
-        "AP Research"
+        "AP Microeconomics"
       ]
     },
     {
@@ -1715,8 +1573,7 @@
         "AP Macroeconomics",
         "AP Statistics",
         "AP Calculus AB",
-        "AP Psychology",
-        "AP United States Government and Politics"
+        "AP Psychology"
       ]
     },
     {
@@ -1726,9 +1583,7 @@
         "AP Art History",
         "AP English Literature and Composition",
         "AP Human Geography",
-        "AP Psychology",
-        "AP Comparative Government and Politics",
-        "AP European History"
+        "AP Psychology"
       ]
     },
     {
@@ -1738,8 +1593,7 @@
         "AP Physics C: Mechanics",
         "AP Calculus BC",
         "AP Physics C: Electricity and Magnetism",
-        "AP Statistics",
-        "AP Computer Science Principles"
+        "AP Statistics"
       ]
     },
     {
@@ -1749,9 +1603,7 @@
         "AP Statistics",
         "AP Biology",
         "AP United States Government and Politics",
-        "AP English Language and Composition",
-        "AP Human Geography",
-        "AP Comparative Government and Politics"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1762,8 +1614,8 @@
         "AP Human Geography",
         "AP United States Government and Politics",
         "AP English Language and Composition",
-        "AP Comparative Government and Politics",
-        "AP Research"
+        "AP Research",
+        "AP Seminar"
       ]
     },
     {
@@ -1773,8 +1625,7 @@
         "AP Chemistry",
         "AP Biology",
         "AP Statistics",
-        "AP Calculus AB",
-        "AP Physics 1: Algebra-Based"
+        "AP Calculus AB"
       ]
     },
     {
@@ -1784,8 +1635,7 @@
         "AP Spanish Literature and Culture",
         "AP English Language and Composition",
         "AP World History: Modern",
-        "AP Human Geography",
-        "AP European History"
+        "AP Human Geography"
       ]
     },
     {
@@ -1795,8 +1645,7 @@
         "AP Biology",
         "AP Statistics",
         "AP English Language and Composition",
-        "AP United States Government and Politics",
-        "AP Human Geography"
+        "AP United States Government and Politics"
       ]
     },
     {
@@ -1806,8 +1655,7 @@
         "AP Statistics",
         "AP Psychology",
         "AP Biology",
-        "AP United States Government and Politics",
-        "AP Human Geography"
+        "AP United States Government and Politics"
       ]
     },
     {
@@ -1817,8 +1665,7 @@
         "AP Calculus BC",
         "AP Computer Science A",
         "AP Physics C: Mechanics",
-        "AP Microeconomics",
-        "AP Psychology"
+        "AP Microeconomics"
       ]
     },
     {
@@ -1828,8 +1675,7 @@
         "AP 3-D Art and Design",
         "AP Drawing",
         "AP Art History",
-        "AP English Literature and Composition",
-        "AP Psychology"
+        "AP English Literature and Composition"
       ]
     },
     {
@@ -1839,8 +1685,7 @@
         "AP Chemistry",
         "AP Physics 1: Algebra-Based",
         "AP Psychology",
-        "AP Statistics",
-        "AP Calculus AB"
+        "AP Statistics"
       ]
     },
     {
@@ -1850,8 +1695,7 @@
         "AP Biology",
         "AP Chemistry",
         "AP Statistics",
-        "AP Microeconomics",
-        "AP Calculus AB"
+        "AP Microeconomics"
       ]
     },
     {
@@ -1861,8 +1705,7 @@
         "AP Psychology",
         "AP Art History",
         "AP Music Theory",
-        "AP European History",
-        "AP World History: Modern"
+        "AP European History"
       ]
     },
     {
@@ -1872,8 +1715,7 @@
         "AP 3-D Art and Design",
         "AP Physics 1: Algebra-Based",
         "AP Art History",
-        "AP English Literature and Composition",
-        "AP Computer Science Principles"
+        "AP English Literature and Composition"
       ]
     },
     {
@@ -1883,9 +1725,7 @@
         "AP Microeconomics",
         "AP Statistics",
         "AP Psychology",
-        "AP World History: Modern",
-        "AP Macroeconomics",
-        "AP English Language and Composition"
+        "AP World History: Modern"
       ]
     },
     {
@@ -1895,9 +1735,7 @@
         "AP United States Government and Politics",
         "AP Environmental Science",
         "AP Statistics",
-        "AP Microeconomics",
-        "AP Psychology",
-        "AP Comparative Government and Politics"
+        "AP Microeconomics"
       ]
     },
     {
@@ -1907,8 +1745,7 @@
         "AP English Literature and Composition",
         "AP European History",
         "AP Art History",
-        "AP Psychology",
-        "AP World History: Modern"
+        "AP Psychology"
       ]
     },
     {
@@ -1918,8 +1755,7 @@
         "AP Computer Science Principles",
         "AP Calculus AB",
         "AP Statistics",
-        "AP English Language and Composition",
-        "AP 2-D Art and Design"
+        "AP English Language and Composition"
       ]
     },
     {
@@ -1929,8 +1765,7 @@
         "AP Biology",
         "AP Statistics",
         "AP Calculus AB",
-        "AP Chemistry",
-        "AP Physics 1: Algebra-Based"
+        "AP Chemistry"
       ]
     },
     {
@@ -1940,8 +1775,7 @@
         "AP Environmental Science",
         "AP Chemistry",
         "AP Statistics",
-        "AP Calculus AB",
-        "AP Physics 1: Algebra-Based"
+        "AP Calculus AB"
       ]
     }
   ]

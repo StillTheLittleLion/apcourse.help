@@ -653,99 +653,6 @@
       ]
     },
     {
-      "name": "Directors",
-      "ap_courses": [
-        "AP English Language and Composition",
-        "AP English Literature and Composition",
-        "AP Psychology",
-        "AP Art History",
-        "AP Music Theory"
-      ]
-    },
-    {
-      "name": "Drafters",
-      "ap_courses": [
-        "AP 2-D Art and Design",
-        "AP Physics C: Mechanics",
-        "AP Calculus AB",
-        "AP Computer Science Principles"
-      ]
-    },
-    {
-      "name": "Economists",
-      "ap_courses": [
-        "AP Microeconomics",
-        "AP Macroeconomics",
-        "AP Statistics",
-        "AP Calculus BC",
-        "AP Computer Science A"
-      ]
-    },
-    {
-      "name": "Editors",
-      "ap_courses": [
-        "AP English Language and Composition",
-        "AP English Literature and Composition"
-      ]
-    },
-    {
-      "name": "Education Administrators",
-      "ap_courses": [
-        "AP Psychology",
-        "AP Statistics",
-        "AP English Language and Composition",
-        "AP United States Government and Politics"
-      ]
-    },
-    {
-      "name": "Electrical Engineers",
-      "ap_courses": [
-        "AP Physics C: Electricity and Magnetism",
-        "AP Physics C: Mechanics",
-        "AP Calculus BC",
-        "AP Computer Science A",
-        "AP Statistics"
-      ]
-    },
-    {
-      "name": "Electronics Technicians",
-      "ap_courses": [
-        "AP Physics C: Electricity and Magnetism",
-        "AP Physics 1: Algebra-Based",
-        "AP Calculus AB",
-        "AP Computer Science Principles"
-      ]
-    },
-    {
-      "name": "Elementary School Teachers",
-      "ap_courses": [
-        "AP Psychology",
-        "AP English Language and Composition",
-        "AP United States History",
-        "AP Biology",
-        "AP Statistics"
-      ]
-    },
-    {
-      "name": "Emergency Medical Technicians and Paramedics",
-      "ap_courses": [
-        "AP Biology",
-        "AP Psychology",
-        "AP Statistics"
-      ]
-    },
-    {
-      "name": "Engineering and Science Managers",
-      "ap_courses": [
-        "AP Calculus BC",
-        "AP Physics C: Mechanics",
-        "AP Chemistry",
-        "AP Biology",
-        "AP Statistics",
-        "AP Computer Science A"
-      ]
-    },
-    {
       "name": "Engineering Technicians",
       "ap_courses": [
         "AP Physics C: Mechanics",
@@ -1686,6 +1593,184 @@
         "AP Computer Science Principles",
         "AP 2-D Art and Design",
         "AP Drawing"
+      ]
+    },
+    {
+      "name": "Program Directors",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Statistics",
+        "AP Computer Science Principles"
+      ]
+    },
+    {
+      "name": "Protestant Ministers",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP Psychology",
+        "AP English Literature and Composition",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Psychiatrists",
+      "ap_courses": [
+        "AP Psychology",
+        "AP Biology",
+        "AP Statistics",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Public Accountants",
+      "ap_courses": [
+        "AP Microeconomics",
+        "AP Macroeconomics",
+        "AP Statistics",
+        "AP Calculus AB"
+      ]
+    },
+    {
+      "name": "Public Interest Advocates",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP Comparative Government and Politics",
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Public Interest Lawyers",
+      "ap_courses": [
+        "AP United States Government and Politics",
+        "AP Comparative Government and Politics",
+        "AP English Language and Composition",
+        "AP United States History",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Public Relations Specialists",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Psychology",
+        "AP Statistics",
+        "AP United States Government and Politics",
+        "AP Microeconomics"
+      ]
+    },
+    {
+      "name": "Rabbis",
+      "ap_courses": [
+        "AP World History: Modern",
+        "AP Psychology",
+        "AP English Literature and Composition",
+        "AP Human Geography"
+      ]
+    },
+    {
+      "name": "Ranchers",
+      "ap_courses": [
+        "AP Environmental Science",
+        "AP Biology",
+        "AP Statistics",
+        "AP Microeconomics"
+      ]
+    },
+    {
+      "name": "Real Estate Brokers and Sales Agents",
+      "ap_courses": [
+        "AP Microeconomics",
+        "AP Statistics",
+        "AP Psychology",
+        "AP English Language and Composition"
+      ]
+    },
+    {
+      "name": "Speech-Language Pathology Assistants",
+      "ap_courses": [
+        "AP Biology",
+        "AP Psychology",
+        "AP Statistics",
+        "AP English Language and Composition"
+      ]
+    },
+    {
+      "name": "Surgical Technologists",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Psychology",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Theater, Film, and TV Technicians",
+      "ap_courses": [
+        "AP Physics 1: Algebra-Based",
+        "AP Computer Science Principles",
+        "AP 2-D Art and Design",
+        "AP Music Theory"
+      ]
+    },
+    {
+      "name": "Trainers",
+      "ap_courses": [
+        "AP Biology",
+        "AP Psychology",
+        "AP Statistics",
+        "AP English Language and Composition"
+      ]
+    },
+    {
+      "name": "Translators",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP Spanish Language and Culture",
+        "AP French Language and Culture",
+        "AP Chinese Language and Culture",
+        "AP German Language and Culture",
+        "AP Italian Language and Culture",
+        "AP Japanese Language and Culture"
+      ]
+    },
+    {
+      "name": "Travel Agents",
+      "ap_courses": [
+        "AP Human Geography",
+        "AP World History: Modern",
+        "AP Psychology",
+        "AP Microeconomics",
+        "AP Statistics"
+      ]
+    },
+    {
+      "name": "Veterinary Technicians",
+      "ap_courses": [
+        "AP Biology",
+        "AP Chemistry",
+        "AP Statistics",
+        "AP Psychology"
+      ]
+    },
+    {
+      "name": "Wildlife Technicians",
+      "ap_courses": [
+        "AP Biology",
+        "AP Environmental Science",
+        "AP Statistics",
+        "AP Chemistry"
+      ]
+    },
+    {
+      "name": "Writers and Authors",
+      "ap_courses": [
+        "AP English Language and Composition",
+        "AP English Literature and Composition",
+        "AP Psychology",
+        "AP World History: Modern"
       ]
     }
   ]

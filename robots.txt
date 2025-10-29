@@ -1,0 +1,15 @@
+# robots.txt for apcourse.help
+# This file tells search engine crawlers which pages to index
+
+User-agent: *
+Allow: /
+
+# Block specific paths if needed (uncomment if you have admin or private sections)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://apcourse.help/sitemap.xml
+
+# Crawl-delay (optional - use if you want to limit crawler speed)
+# Crawl-delay: 1

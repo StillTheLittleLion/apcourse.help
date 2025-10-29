@@ -3,9 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Career Details</title>
-    <link rel="stylesheet" href="newcareer.css">
     
+    <!-- Primary Meta Tags - Will be dynamically updated by JavaScript -->
+    <title>Career Details - AP Course Help</title>
+    <meta name="title" content="AP Course Recommendations for Career Paths | AP Course Help">
+    <meta name="description" content="Discover which AP courses are recommended for your career goal. Get both College Board and AI-powered recommendations.">
+    <meta name="keywords" content="AP courses, career path, AP recommendations, course selection">
+    <meta name="author" content="Ege Yilmaz">
+    
+    <!-- Canonical URL - Will be dynamically updated -->
+    <link rel="canonical" href="https://apcourse.help/career.html">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://apcourse.help/career.html">
+    <meta property="og:title" content="AP Course Recommendations for Career Paths">
+    <meta property="og:description" content="Discover which AP courses are recommended for your career goal. Get both College Board and AI-powered recommendations.">
+    <meta property="og:image" content="https://apcourse.help/og-image.png">
+    <meta property="og:site_name" content="AP Course Help">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://apcourse.help/career.html">
+    <meta property="twitter:title" content="AP Course Recommendations for Career Paths">
+    <meta property="twitter:description" content="Discover which AP courses are recommended for your career goal. Get both College Board and AI-powered recommendations.">
+    <meta property="twitter:image" content="https://apcourse.help/og-image.png">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6VYP0QJL5"></script>
@@ -13,53 +43,352 @@
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
-
         gtag('config', 'G-K6VYP0QJL5');
+
+        // Track which career is being viewed
+        window.addEventListener('DOMContentLoaded', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const careerName = urlParams.get('career');
+            
+            if (careerName) {
+                const decodedCareer = decodeURIComponent(careerName);
+                
+                // Send custom event to Google Analytics
+                gtag('event', 'view_career', {
+                    'career_name': decodedCareer,
+                    'page_title': 'Career Details - ' + decodedCareer
+                });
+                
+                // Update page title and meta tags for better SEO
+                const pageTitle = decodedCareer + ' - AP Course Recommendations | AP Course Help';
+                document.title = pageTitle;
+                
+                // Update Open Graph and Twitter meta tags
+                document.querySelector('meta[property="og:title"]').content = decodedCareer + ' - AP Course Recommendations';
+                document.querySelector('meta[property="twitter:title"]').content = decodedCareer + ' - AP Course Recommendations';
+                
+                const description = 'Find the best AP courses for a career as ' + decodedCareer + '. Get College Board and AI-powered recommendations to prepare for your career.';
+                document.querySelector('meta[name="description"]').content = description;
+                document.querySelector('meta[property="og:description"]').content = description;
+                document.querySelector('meta[property="twitter:description"]').content = description;
+                
+                // Update canonical URL
+                document.querySelector('link[rel="canonical"]').href = 'https://apcourse.help/career.html?career=' + encodeURIComponent(careerName);
+                document.querySelector('meta[property="og:url"]').content = 'https://apcourse.help/career.html?career=' + encodeURIComponent(careerName);
+                document.querySelector('meta[property="twitter:url"]').content = 'https://apcourse.help/career.html?career=' + encodeURIComponent(careerName);
+            }
+        });
     </script>
 
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #fdfbf7;
+            color: #37352f;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Header matching homepage */
+        header {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+            position: sticky;
+            top: 0;
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(8px);
+            z-index: 100;
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #37352f;
+        }
+
+        nav {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        nav a {
+            color: rgba(55, 53, 47, 0.65);
+            text-decoration: none;
+            font-size: 0.875rem;
+            padding: 0.375rem 0.75rem;
+            border-radius: 4px;
+            transition: all 0.15s;
+        }
+
+        nav a:hover {
+            background: rgba(55, 53, 47, 0.06);
+            color: #37352f;
+        }
+
+        /* Hero section */
+        .hero-section {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 3rem 2rem 2rem;
+        }
+
+        .hero-section h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #37352f;
+            margin-bottom: 1rem;
+            line-height: 1.2;
+        }
+
+        .hero-section p {
+            font-size: 1.125rem;
+            color: rgba(55, 53, 47, 0.65);
+            line-height: 1.6;
+        }
+
+        .hero-section strong {
+            color: #37352f;
+            font-weight: 600;
+        }
+
+        /* Course lists container */
+        .course-lists-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+        }
+
+        .course-list-container {
+            background: #ffffff;
+            border: 1px solid rgba(55, 53, 47, 0.16);
+            border-radius: 4px;
+            padding: 1.5rem;
+        }
+
+        .course-list-container h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #37352f;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 2px solid rgba(55, 53, 47, 0.16);
+        }
+
+        /* Course entry */
+        .course-entry {
+            border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+            padding: 1rem 0;
+        }
+
+        .course-entry:last-child {
+            border-bottom: none;
+        }
+
+        .course-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .course-name a {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #37352f;
+            text-decoration: none;
+            cursor: pointer;
+            transition: color 0.15s;
+        }
+
+        .course-name a:hover {
+            color: rgba(55, 53, 47, 0.65);
+        }
+
+        /* Beads container */
+        .bead-container {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+        }
+
+        .bead {
+            background: transparent;
+            padding: 0.25rem 0.5rem;
+            font-size: 0.75rem;
+            font-weight: 500;
+            border-radius: 3px;
+            border: 1.5px solid;
+            white-space: nowrap;
+        }
+
+        .bead.popular { border-color: #ff6347; color: #ff6347; }
+        .bead.goodwidth { border-color: #4682b4; color: #4682b4; }
+        .bead.project { border-color: #32cd32; color: #32cd32; }
+        .bead.majorScore { border-color: #ffa500; color: #ffa500; }
+        .bead.careerScore { border-color: #ffa500; color: #ffa500; }
+        .bead.threePlus { border-color: #9370db; color: #9370db; }
+        .bead.five { border-color: #ff1493; color: #ff1493; }
+
+        /* Course details */
+        .course-details {
+            display: none;
+            margin-top: 1rem;
+            padding: 1rem;
+            background: rgba(55, 53, 47, 0.03);
+            border-radius: 4px;
+        }
+
+        .course-details.show-details {
+            display: block;
+        }
+
+        .bead-details {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 0.75rem;
+            align-items: center;
+            margin-bottom: 0.75rem;
+        }
+
+        .bead-details:last-child {
+            margin-bottom: 0;
+        }
+
+        .bead-description {
+            font-size: 0.875rem;
+            color: rgba(55, 53, 47, 0.65);
+            line-height: 1.5;
+        }
+
+        .bead-description a {
+            color: #37352f;
+            font-weight: 500;
+            text-decoration: none;
+        }
+
+        .bead-description a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            border-top: 1px solid rgba(55, 53, 47, 0.09);
+            text-align: center;
+            margin-top: 2rem;
+        }
+
+        footer p {
+            font-size: 0.875rem;
+            color: rgba(55, 53, 47, 0.65);
+            margin-bottom: 0.5rem;
+            line-height: 1.6;
+        }
+
+        footer a {
+            color: rgba(55, 53, 47, 0.65);
+            text-decoration: none;
+            font-size: 0.6rem;
+            font-weight: bold;
+        }
+
+        footer a:hover {
+            color: #37352f;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .course-lists-container {
+                grid-template-columns: 1fr;
+                padding: 1.5rem;
+            }
+
+            .hero-section {
+                padding: 2rem 1.5rem 1.5rem;
+            }
+
+            .hero-section h1 {
+                font-size: 2rem;
+            }
+
+            nav {
+                flex-direction: column;
+                gap: 0;
+            }
+
+            .bead-container {
+                display: none;
+            }
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar">
-            <a href="index.html">Home</a>
-            <a href="majors.html">Select a Major</a>
-            <a href="careers.html">Select a Career</a>
-            <span class="mobile-br"></span>
-            <a href="all-courses.html">All Courses</a>
-            <a href="contact.html">Contact</a>
-        </nav>
-
-        <!-- Hero Section -->
-        <div class="hero-section" style="padding: 25px 0;">
-            <div class="container" style="margin-left: 10px; margin-right: 10px;">
-                        <div class="hero-content">
-                            <h1 id="hero-title" style="font-size: 2em;"></h1>
-                            <p id="hero-desc"></p>
-                        </div>
+        <div class="header-content">
+            <div class="logo">
+                <a href="index.html" style="color: inherit; text-decoration: none;">
+                    <strong>apcourse.help</strong> <span>/ a student guide</span>
+                </a>
             </div>
+            <nav>
+                <a href="index.html">home</a>
+                <a href="majors.html">majors</a>
+                <a href="careers.html">careers</a>
+                <a href="all-courses.html">all courses</a>
+                <a href="contact.html">contact</a>
+            </nav>
         </div>
     </header>
+
+    <div class="hero-section">
+        <h1 id="hero-title"></h1>
+        <p id="hero-desc"></p>
+    </div>
 
     <main class="course-lists-container">
         <!-- College Board Recommended List -->
         <div class="course-list-container" id="cb-recommended">
-            <h2>CB Recommended-Click course name for details</h2>
+            <h2>CB Recommended</h2>
+            <p style="font-size: 0.875rem; color: rgba(55, 53, 47, 0.65); margin-bottom: 1rem;">Click course name for details</p>
             <!-- AP courses will be dynamically inserted here -->
         </div>
 
         <!-- AI Recommended List -->
         <div class="course-list-container" id="ai-recommended">
-            <h2>AI Recommended-Click course name for details</h2>
+            <h2>AI Recommended</h2>
+            <p style="font-size: 0.875rem; color: rgba(55, 53, 47, 0.65); margin-bottom: 1rem;">Click course name for details</p>
             <!-- AP courses will be dynamically inserted here -->       
         </div>
     </main>
 
-    <script src="js/career.js"></script>
-
     <footer>
-        <p>&copy; 2024 Ege Yilmaz - RC28. This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>. Please <a href="disclaimer.html" target="_blank">read the disclaimer</a>.</p>
-        <p>Data sourced from publicly available materials provided by the <a href="https://apstudents.collegeboard.org/" target="_blank">College Board</a>. This site is not affiliated with, endorsed by, or officially connected to the College Board in any way.</p>
+        <p><strong>Made by a student, for students.</strong></p>
+        <p style="font-size: 0.6rem;">Data sourced from publicly available materials provided by the <a href="https://apstudents.collegeboard.org/" target="_blank">College Board</a>. This site is not affiliated with, endorsed by, or officially connected to the College Board in any way.</p>
+        <p style="font-size: 0.6rem;">© 2024 Ege Yilmaz - <a href="http://www.robcol.k12.tr">RC28</a>. This project is licensed under the MIT License. Please <a href="disclaimer.html" target="_blank">read the disclaimer</a>.</p>
     </footer>
-     
+
+    <script src="js/career.js"></script>
 </body>
 </html>

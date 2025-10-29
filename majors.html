@@ -3,8 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Select a Major</title>
-    <link rel="stylesheet" href="style.css">
+    
+    <!-- Primary Meta Tags -->
+    <title>Browse by Major - Find AP Courses for Your College Major | AP Course Help</title>
+    <meta name="title" content="Browse by Major - Find AP Courses for Your College Major | AP Course Help">
+    <meta name="description" content="Explore AP course recommendations organized by college major. Find which Advanced Placement courses align with your intended major - from engineering to liberal arts.">
+    <meta name="keywords" content="AP courses by major, college major, AP recommendations, engineering, business, pre-med, computer science, liberal arts">
+    <meta name="author" content="Ege Yilmaz">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://apcourse.help/majors.html">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://apcourse.help/majors.html">
+    <meta property="og:title" content="Browse by Major - Find AP Courses for Your College Major">
+    <meta property="og:description" content="Explore AP course recommendations organized by college major. Find which Advanced Placement courses align with your intended major.">
+    <meta property="og:image" content="https://apcourse.help/og-image.png">
+    <meta property="og:site_name" content="AP Course Help">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://apcourse.help/majors.html">
+    <meta property="twitter:title" content="Browse by Major - Find AP Courses for Your College Major">
+    <meta property="twitter:description" content="Explore AP course recommendations organized by college major. Find which Advanced Placement courses align with your intended major.">
+    <meta property="twitter:image" content="https://apcourse.help/og-image.png">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6VYP0QJL5"></script>
@@ -12,58 +43,418 @@
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
-
         gtag('config', 'G-K6VYP0QJL5');
     </script>
 
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #fdfbf7;
+            color: #37352f;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Header matching homepage */
+        header {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+            position: sticky;
+            top: 0;
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(8px);
+            z-index: 100;
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #37352f;
+        }
+
+        nav {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        nav a {
+            color: rgba(55, 53, 47, 0.65);
+            text-decoration: none;
+            font-size: 0.875rem;
+            padding: 0.375rem 0.75rem;
+            border-radius: 4px;
+            transition: all 0.15s;
+        }
+
+        nav a:hover {
+            background: rgba(55, 53, 47, 0.06);
+            color: #37352f;
+        }
+
+        /* Main container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem 2rem 6rem;
+        }
+
+        /* Page header */
+        .page-header {
+            margin-bottom: 3rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #37352f;
+            margin-bottom: 0.5rem;
+            line-height: 1.2;
+        }
+
+        .subtitle {
+            font-size: 1.125rem;
+            color: rgba(55, 53, 47, 0.65);
+            line-height: 1.5;
+        }
+
+        /* Search/filter section */
+        .search-section {
+            margin-bottom: 2rem;
+        }
+
+        .search-box {
+            width: 100%;
+            max-width: 500px;
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            font-family: 'Inter', sans-serif;
+            border: 1px solid rgba(55, 53, 47, 0.16);
+            border-radius: 4px;
+            background: #ffffff;
+            color: #37352f;
+            transition: all 0.15s;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: rgba(55, 53, 47, 0.4);
+            box-shadow: 0 0 0 2px rgba(55, 53, 47, 0.08);
+        }
+
+        .search-box::placeholder {
+            color: rgba(55, 53, 47, 0.4);
+        }
+
+        /* Majors grid */
+        .majors-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 1rem;
+        }
+
+        .major-button {
+            background: #ffffff;
+            border: 1px solid rgba(55, 53, 47, 0.16);
+            border-radius: 4px;
+            padding: 1.5rem;
+            text-decoration: none;
+            color: #37352f;
+            display: block;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+            font-size: 1.125rem;
+            font-weight: 600;
+            line-height: 1.5;
+            font-family: 'Inter', sans-serif;
+            text-align: left;
+            width: 100%;
+        }
+
+        .major-button:hover {
+            background: #ffffff;
+            border-color: rgba(55, 53, 47, 0.4);
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(55, 53, 47, 0.12);
+        }
+
+        /* Keep old classes for compatibility */
+        .major-card {
+            background: #ffffff;
+            border: 1px solid rgba(55, 53, 47, 0.16);
+            border-radius: 4px;
+            padding: 1.5rem;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+        }
+
+        .major-card:hover {
+            background: #ffffff;
+            border-color: rgba(55, 53, 47, 0.4);
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(55, 53, 47, 0.12);
+        }
+
+        .major-name {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: #37352f;
+            line-height: 1.5;
+        }
+
+        /* Info callout */
+        .info-callout {
+            background: rgb(251, 243, 219);
+            border-radius: 4px;
+            padding: 1rem 1.25rem;
+            margin: 2rem 0;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        .info-callout strong {
+            font-weight: 600;
+        }
+
+        /* Floating button */
+        .floating-container {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            z-index: 50;
+        }
+
+        .floating-btn {
+            background: #37352f;
+            color: #ffffff;
+            border: none;
+            padding: 0.875rem 1.25rem;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            font-family: 'Inter', sans-serif;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            transition: all 0.2s;
+        }
+
+        .floating-btn:hover {
+            background: #1a1817;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .message-bubble {
+            position: absolute;
+            bottom: 100%;
+            right: 0;
+            margin-bottom: 1rem;
+            background: #ffffff;
+            border: 1px solid rgba(55, 53, 47, 0.16);
+            border-radius: 4px;
+            padding: 1rem;
+            max-width: 300px;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+            font-size: 0.875rem;
+            line-height: 1.6;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: all 0.3s;
+            pointer-events: none;
+        }
+
+        .message-bubble.show {
+            opacity: 1;
+            transform: translateY(0);
+            pointer-events: auto;
+        }
+
+        .message-bubble.hidden {
+            display: none;
+        }
+
+        .message-bubble a {
+            color: #37352f;
+            font-weight: 600;
+        }
+
+        /* Footer */
+        footer {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            border-top: 1px solid rgba(55, 53, 47, 0.09);
+            text-align: center;
+        }
+
+        footer p {
+            font-size: 0.875rem;
+            color: rgba(55, 53, 47, 0.65);
+            margin-bottom: 0.5rem;
+            line-height: 1.6;
+        }
+
+        footer a {
+            color: rgba(55, 53, 47, 0.65);
+            text-decoration: none;
+            font-size: 0.6rem;
+            font-weight: bold;
+        }
+
+        footer a:hover {
+            color: #37352f;
+        }
+
+        /* Empty state */
+        .empty-state {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: rgba(55, 53, 47, 0.65);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 2rem 1.5rem 4rem;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .majors-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .floating-container {
+                bottom: 1rem;
+                right: 1rem;
+            }
+
+            .floating-btn {
+                font-size: 0.85rem;
+                padding: 0.75rem 1rem;
+            }
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar">
-            <a href="index.html">Home</a>
-            <a href="contact.html">Contact</a>
-        </nav>
-        <div class="title-section">
-            <h1>Select a Major</h1>
-            <p>Click on a major to proceed.</p>
+        <div class="header-content">
+            <div class="logo">
+                <a href="index.html" style="color: inherit; text-decoration: none;">
+                    <strong>apcourse.help</strong> <span>/ a student guide</span>
+                </a>
+            </div>
+            <nav>
+                <a href="index.html">home</a>
+                <a href="careers.html">careers</a>
+                <a href="all-courses.html">all courses</a>
+                <a href="contact.html">contact</a>
+            </nav>
         </div>
     </header>
 
-    <main class="majors-page">
-        <div class="majors-container" id="majors-container">
+    <div class="container">
+        <div class="page-header">
+            <h1>Browse by Major</h1>
+            <p class="subtitle">Select your intended college major to see which AP courses are recommended.</p>
+        </div>
+
+        <div class="search-section">
+            <p><span class="toggle-icon">▸ </span>Search a major or simply select one from the list below:</p>
+            <input 
+                type="text" 
+                class="search-box" 
+                id="search-input"
+                placeholder="Write a major here to search..."
+            >
+        </div>
+
+        <div class="majors-grid" id="majors-container">
             <!-- Majors will be dynamically inserted here -->
         </div>
-    </main>
 
-    <div id="floating-button">
-        <button id="floating-btn" class="floating-btn">Wondering why your dream major isn't listed?</button>
+        <div id="empty-state" class="empty-state" style="display: none;">
+            No majors found matching your search.
+        </div>
+    </div>
+
+    <div class="floating-container">
+        <button id="floating-btn" class="floating-btn">Why isn't my major listed?</button>
         <div id="message-bubble" class="message-bubble hidden">
             The majors listed here are based on the official list provided by the College Board. For more info, check their <a href="https://apstudents.collegeboard.org/choosing-courses/by-major-career" target="_blank">website</a>.
         </div>
-      </div>   
+    </div>
+
+    <footer>
+        <p><strong>Made by a student, for students.</strong></p>
+        <p style="font-size: 0.6rem;">Data sourced from publicly available materials provided by the <a href="https://apstudents.collegeboard.org/" target="_blank">College Board</a>. This site is not affiliated with, endorsed by, or officially connected to the College Board in any way.</p>
+        <p style="font-size: 0.6rem;">© 2024 Ege Yilmaz - <a href="http://www.robcol.k12.tr">RC28</a>. This project is licensed under the MIT License. Please <a href="disclaimer.html" target="_blank">read the disclaimer</a>.</p>
+    </footer>
 
     <script src="js/majors.js"></script>
     
     <script>
+        // Floating button functionality
         document.getElementById('floating-btn').addEventListener('click', () => {
             const messageBubble = document.getElementById('message-bubble');
-
-            // Show the bubble
             messageBubble.classList.remove('hidden');
             messageBubble.classList.add('show');
 
-            // Hide the bubble after 5 seconds
             setTimeout(() => {
                 messageBubble.classList.remove('show');
-                messageBubble.classList.add('hidden');
+                setTimeout(() => messageBubble.classList.add('hidden'), 300);
             }, 5000);
         });
-    </script>
 
-    <footer>
-        <p>&copy; 2024 Ege Yilmaz - RC28. This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>. Please <a href="disclaimer.html" target="_blank">read the disclaimer</a>.</p>
-        <p>Data sourced from publicly available materials provided by the <a href="https://apstudents.collegeboard.org/" target="_blank">College Board</a>. This site is not affiliated with, endorsed by, or officially connected to the College Board in any way.</p>
-    </footer>
-    
+        // Setup search after a delay to ensure majors are loaded
+        setTimeout(() => {
+            const searchInput = document.getElementById('search-input');
+            const majorsContainer = document.getElementById('majors-container');
+            const emptyState = document.getElementById('empty-state');
+
+            searchInput.addEventListener('input', (e) => {
+                const searchTerm = e.target.value.toLowerCase().trim();
+                
+                // Get all direct children of majors-container
+                const allCards = Array.from(majorsContainer.children);
+                let visibleCount = 0;
+
+                allCards.forEach(card => {
+                    // Get ALL text content from the card
+                    const cardText = card.textContent.toLowerCase().trim();
+                    
+                    // Show if search is empty OR card text includes search term
+                    if (searchTerm === '' || cardText.includes(searchTerm)) {
+                        card.style.display = '';
+                        visibleCount++;
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+
+                // Show empty state only when searching and nothing found
+                emptyState.style.display = (searchTerm !== '' && visibleCount === 0) ? 'block' : 'none';
+            });
+        }, 500);
+    </script>
 </body>
 </html>

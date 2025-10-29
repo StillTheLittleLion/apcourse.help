@@ -44,8 +44,25 @@
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'G-K6VYP0QJL5');
+    </script>
+    
+    <!-- SEO Meta Tag Updates and Analytics Tracking -->
+    <script>
+        // Function to send GA event - will retry if gtag not ready
+        function sendMajorViewEvent(majorName) {
+            if (typeof gtag === 'function') {
+                gtag('event', 'view_major', {
+                    'major_name': majorName,
+                    'page_title': 'Major Details - ' + majorName
+                });
+                console.log('GA Event sent: view_major -', majorName);
+            } else {
+                // Retry after a short delay if gtag not ready
+                setTimeout(() => sendMajorViewEvent(majorName), 100);
+            }
+        }
 
-        // Track which major is being viewed
+        // Track which major is being viewed and update meta tags
         window.addEventListener('DOMContentLoaded', () => {
             const urlParams = new URLSearchParams(window.location.search);
             const majorName = urlParams.get('major');
@@ -54,28 +71,34 @@
                 const decodedMajor = decodeURIComponent(majorName);
                 
                 // Send custom event to Google Analytics
-                gtag('event', 'view_major', {
-                    'major_name': decodedMajor,
-                    'page_title': 'Major Details - ' + decodedMajor
-                });
+                sendMajorViewEvent(decodedMajor);
                 
                 // Update page title and meta tags for better SEO
                 const pageTitle = decodedMajor + ' - AP Course Recommendations | AP Course Help';
                 document.title = pageTitle;
                 
                 // Update Open Graph and Twitter meta tags
-                document.querySelector('meta[property="og:title"]').content = decodedMajor + ' - AP Course Recommendations';
-                document.querySelector('meta[property="twitter:title"]').content = decodedMajor + ' - AP Course Recommendations';
+                const ogTitle = document.querySelector('meta[property="og:title"]');
+                const twitterTitle = document.querySelector('meta[property="twitter:title"]');
+                if (ogTitle) ogTitle.content = decodedMajor + ' - AP Course Recommendations';
+                if (twitterTitle) twitterTitle.content = decodedMajor + ' - AP Course Recommendations';
                 
                 const description = 'Find the best AP courses for ' + decodedMajor + '. Get College Board and AI-powered recommendations to prepare for your major.';
-                document.querySelector('meta[name="description"]').content = description;
-                document.querySelector('meta[property="og:description"]').content = description;
-                document.querySelector('meta[property="twitter:description"]').content = description;
+                const metaDesc = document.querySelector('meta[name="description"]');
+                const ogDesc = document.querySelector('meta[property="og:description"]');
+                const twitterDesc = document.querySelector('meta[property="twitter:description"]');
+                if (metaDesc) metaDesc.content = description;
+                if (ogDesc) ogDesc.content = description;
+                if (twitterDesc) twitterDesc.content = description;
                 
                 // Update canonical URL
-                document.querySelector('link[rel="canonical"]').href = 'https://apcourse.help/major.html?major=' + encodeURIComponent(majorName);
-                document.querySelector('meta[property="og:url"]').content = 'https://apcourse.help/major.html?major=' + encodeURIComponent(majorName);
-                document.querySelector('meta[property="twitter:url"]').content = 'https://apcourse.help/major.html?major=' + encodeURIComponent(majorName);
+                const fullUrl = 'https://apcourse.help/major.html?major=' + encodeURIComponent(majorName);
+                const canonical = document.querySelector('link[rel="canonical"]');
+                const ogUrl = document.querySelector('meta[property="og:url"]');
+                const twitterUrl = document.querySelector('meta[property="twitter:url"]');
+                if (canonical) canonical.href = fullUrl;
+                if (ogUrl) ogUrl.content = fullUrl;
+                if (twitterUrl) twitterUrl.content = fullUrl;
             }
         });
     </script>
